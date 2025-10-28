@@ -1,0 +1,1001 @@
+ID_Cliente,Nome,Idade,Sexo,Cidade,Estado,Canal_Aquisicao
+1,Cauã Guerra,56,M,São Paulo,RS,Loja Física
+2,Luísa Vargas,69,M,Rio de Janeiro,RJ,Online
+3,Larissa Monteiro,46,M,Porto Alegre,PR,Online
+4,Larissa Ribeiro,32,F,Porto Alegre,PR,Loja Física
+5,Otávio Castro,60,M,Belo Horizonte,RJ,Online
+6,Ana Carvalho,25,M,Rio de Janeiro,RJ,Online
+7,Henry da Mota,38,M,Belo Horizonte,MG,Online
+8,Pedro Porto,56,F,Rio de Janeiro,PR,Loja Física
+9,Ian Macedo,36,F,Belo Horizonte,PR,Online
+10,Sara Vieira,40,M,Porto Alegre,MG,Loja Física
+11,Ana Beatriz Silva,28,M,Porto Alegre,SP,Online
+12,Alexandre Cunha,28,M,São Paulo,MG,Online
+13,Luiz Gustavo Machado,41,M,Belo Horizonte,RS,Online
+14,Rafael Sousa,53,F,Curitiba,PR,Loja Física
+15,Isabelly Dias,57,F,São Paulo,RJ,Loja Física
+16,Srta. Ana Liz Rezende,41,F,Belo Horizonte,RS,Online
+17,Pedro Miguel Borges,20,F,Belo Horizonte,PR,Loja Física
+18,Maria Helena Pimenta,39,M,São Paulo,MG,Online
+19,Augusto Brito,19,M,Porto Alegre,RS,Loja Física
+20,Cecilia Costa,41,M,Belo Horizonte,PR,Loja Física
+21,Cauã Câmara,61,F,Porto Alegre,SP,Online
+22,Zoe Castro,47,M,São Paulo,SP,Online
+23,Ísis Dias,55,F,Porto Alegre,RJ,Online
+24,José Pedro Rodrigues,19,F,Rio de Janeiro,PR,Online
+25,Dra. Clarice Barros,38,M,Curitiba,SP,Loja Física
+26,João Vitor Campos,50,M,Belo Horizonte,MG,Loja Física
+27,Alana da Conceição,29,M,Curitiba,PR,Loja Física
+28,Liam Nogueira,39,F,Porto Alegre,MG,Online
+29,Helena Ramos,61,M,Belo Horizonte,MG,Online
+30,Sarah Monteiro,42,F,Porto Alegre,SP,Loja Física
+31,Dr. Lucca Sousa,66,M,Rio de Janeiro,PR,Online
+32,Gustavo Nascimento,44,F,São Paulo,RS,Loja Física
+33,Valentina Siqueira,59,F,Belo Horizonte,SP,Loja Física
+34,Luiza Lopes,45,M,Rio de Janeiro,SP,Loja Física
+35,Srta. Ana Sophia Souza,33,F,Rio de Janeiro,PR,Loja Física
+36,Caio Sales,32,F,Belo Horizonte,PR,Loja Física
+37,Levi Pacheco,64,M,Porto Alegre,MG,Online
+38,Eduardo Moura,68,F,Rio de Janeiro,PR,Online
+39,Isabela Ribeiro,61,M,Curitiba,MG,Online
+40,Marcela Marques,69,F,Rio de Janeiro,SP,Loja Física
+41,Maya Caldeira,20,M,Porto Alegre,RJ,Loja Física
+42,Yasmin Jesus,54,M,Porto Alegre,RS,Loja Física
+43,Benjamin da Luz,68,F,Curitiba,SP,Loja Física
+44,Ian Cassiano,24,F,Rio de Janeiro,PR,Online
+45,Igor Farias,38,F,Porto Alegre,RS,Online
+46,Giovanna Novais,26,F,Belo Horizonte,RJ,Loja Física
+47,Brayan da Paz,56,F,São Paulo,RJ,Loja Física
+48,Caio Sá,35,M,São Paulo,MG,Loja Física
+49,Maria Julia Porto,21,F,São Paulo,RS,Online
+50,Thales Ramos,42,M,Rio de Janeiro,MG,Online
+51,Antonella Pereira,31,M,Curitiba,SP,Online
+52,João Lucas Rezende,67,F,Porto Alegre,RS,Loja Física
+53,Elisa Vargas,26,M,Belo Horizonte,SP,Loja Física
+54,Davi Lucas Araújo,43,M,Belo Horizonte,MG,Online
+55,Emanuelly Moreira,19,M,Rio de Janeiro,RS,Loja Física
+56,Allana Cavalcanti,37,M,São Paulo,MG,Online
+57,Asafe Mendonça,45,F,Rio de Janeiro,RS,Loja Física
+58,Dr. Nicolas Pacheco,64,M,Curitiba,MG,Online
+59,Ana Carolina Montenegro,24,F,Curitiba,RJ,Loja Física
+60,Enzo Gabriel Vasconcelos,61,F,Porto Alegre,MG,Online
+61,Vinícius Albuquerque,25,M,Porto Alegre,RJ,Online
+62,Isabelly da Costa,64,F,Curitiba,MG,Online
+63,Daniel da Mata,52,F,Curitiba,RS,Online
+64,Hellena Silva,31,F,Curitiba,RS,Online
+65,Cauã Sousa,34,M,Rio de Janeiro,RS,Online
+66,Manuella Araújo,53,F,Curitiba,PR,Loja Física
+67,Emanuelly Casa Grande,67,F,Belo Horizonte,SP,Loja Física
+68,Maria Eduarda Nunes,57,F,São Paulo,RS,Loja Física
+69,Bella Nogueira,21,M,Curitiba,RJ,Online
+70,Heitor Siqueira,19,F,São Paulo,RS,Online
+71,Dr. Gael Henrique da Cunha,23,M,Rio de Janeiro,PR,Loja Física
+72,Thomas Lopes,59,M,São Paulo,RJ,Online
+73,Igor Costa,21,M,Rio de Janeiro,PR,Online
+74,Gustavo Henrique Rocha,46,M,Belo Horizonte,RJ,Online
+75,Gabriel Souza,35,M,Rio de Janeiro,MG,Online
+76,Davi Miguel Santos,43,M,Rio de Janeiro,SP,Online
+77,Dra. Daniela Barros,61,F,Porto Alegre,SP,Loja Física
+78,Rafaela Leão,51,M,Curitiba,PR,Loja Física
+79,Ana Clara Costa,27,F,Curitiba,SP,Loja Física
+80,Vicente Correia,53,F,Belo Horizonte,PR,Loja Física
+81,Théo Guerra,31,M,Belo Horizonte,PR,Loja Física
+82,Alana Mendonça,48,F,Curitiba,PR,Online
+83,Gael Henrique da Rocha,65,F,Porto Alegre,SP,Online
+84,Lívia Martins,32,F,Curitiba,PR,Online
+85,Davi Miguel Rios,25,F,Porto Alegre,SP,Online
+86,Vinicius Silveira,31,M,Belo Horizonte,PR,Loja Física
+87,Maria Sophia Rodrigues,40,F,São Paulo,RS,Loja Física
+88,Eduardo Alves,57,M,Belo Horizonte,PR,Loja Física
+89,Gabriel Ribeiro,38,F,Belo Horizonte,RJ,Online
+90,Nicole Pires,33,F,Rio de Janeiro,PR,Loja Física
+91,Ágatha da Paz,62,M,Rio de Janeiro,MG,Online
+92,Ana Cecília Nogueira,35,F,Rio de Janeiro,PR,Loja Física
+93,Julia da Cunha,64,F,Rio de Janeiro,RJ,Loja Física
+94,Beatriz Cirino,41,F,Porto Alegre,RJ,Online
+95,Otto Leão,43,M,Curitiba,SP,Online
+96,Eduarda Nunes,42,F,São Paulo,RS,Loja Física
+97,Mariana Abreu,62,M,Belo Horizonte,PR,Loja Física
+98,Srta. Maya Aparecida,58,F,Porto Alegre,SP,Online
+99,Ana Lívia Pereira,46,M,São Paulo,RS,Loja Física
+100,Pedro Lucas Aparecida,32,M,Porto Alegre,PR,Loja Física
+101,Arthur Ferreira,62,F,Porto Alegre,MG,Online
+102,Ísis Pereira,18,F,Belo Horizonte,PR,Loja Física
+103,Danilo Guerra,42,M,Curitiba,RJ,Online
+104,Luigi Macedo,24,M,Rio de Janeiro,RJ,Loja Física
+105,Sabrina da Mota,26,F,Curitiba,MG,Online
+106,Caio Nunes,41,M,Belo Horizonte,SP,Loja Física
+107,Luiz Otávio Nogueira,18,F,Belo Horizonte,RS,Online
+108,Otto Melo,61,F,Belo Horizonte,PR,Loja Física
+109,Ravi Lucca Sampaio,25,F,São Paulo,RJ,Online
+110,Mathias Marques,41,F,Curitiba,SP,Loja Física
+111,Srta. Eloá Rios,28,M,Curitiba,MG,Loja Física
+112,Ana Beatriz Gomes,68,F,Porto Alegre,RJ,Loja Física
+113,Asafe Ramos,34,M,Porto Alegre,MG,Loja Física
+114,Ravi Albuquerque,25,F,Porto Alegre,PR,Loja Física
+115,Dr. Luiz Miguel da Mata,52,M,Belo Horizonte,RS,Loja Física
+116,Eduarda Novais,52,F,Curitiba,RJ,Loja Física
+117,Maria Castro,50,M,Belo Horizonte,RJ,Loja Física
+118,Murilo Silva,22,M,São Paulo,PR,Loja Física
+119,Bento Pinto,59,F,Porto Alegre,SP,Online
+120,Dr. Vinícius Mendonça,56,F,Belo Horizonte,RS,Online
+121,Eloá Souza,58,F,Belo Horizonte,RJ,Loja Física
+122,Alexandre Montenegro,45,F,São Paulo,RS,Online
+123,Ana Vitória Câmara,24,M,Rio de Janeiro,RJ,Loja Física
+124,Enrico da Rocha,26,F,Curitiba,RS,Loja Física
+125,Dr. André Pereira,25,M,Rio de Janeiro,MG,Online
+126,Camila da Mota,29,M,Porto Alegre,RJ,Loja Física
+127,Vitória Aparecida,51,F,Belo Horizonte,RS,Loja Física
+128,Alice da Conceição,50,M,São Paulo,SP,Online
+129,Mariana Costa,65,M,São Paulo,MG,Online
+130,Luigi Nascimento,40,M,Curitiba,MG,Loja Física
+131,Srta. Anna Liz Silva,41,M,Rio de Janeiro,SP,Online
+132,Sara Gomes,54,F,Curitiba,RS,Online
+133,Davi Lucas Cavalcante,52,F,Belo Horizonte,PR,Loja Física
+134,Dra. Maria Cecília Porto,61,F,Curitiba,SP,Online
+135,Bianca Aragão,57,F,São Paulo,RS,Online
+136,Juliana Lima,39,M,São Paulo,SP,Loja Física
+137,Melissa Porto,44,M,Porto Alegre,SP,Online
+138,Thomas Lopes,52,F,Porto Alegre,RJ,Online
+139,Dante Sousa,18,F,Belo Horizonte,RS,Loja Física
+140,Maria Eduarda Santos,52,F,Rio de Janeiro,PR,Loja Física
+141,Gustavo Henrique Cavalcante,54,M,Curitiba,RJ,Loja Física
+142,Dr. Fernando Silva,64,F,Belo Horizonte,SP,Online
+143,Thales Costa,31,F,Porto Alegre,SP,Loja Física
+144,Gustavo Henrique Garcia,20,F,Curitiba,SP,Loja Física
+145,Ana Carolina Almeida,18,M,Porto Alegre,RS,Online
+146,Davi Miguel Macedo,22,M,Curitiba,RS,Loja Física
+147,Vitor Hugo Machado,43,M,Rio de Janeiro,RJ,Loja Física
+148,Ana Vitória Câmara,31,M,Belo Horizonte,PR,Loja Física
+149,Anthony Gabriel da Rosa,56,M,Curitiba,RJ,Loja Física
+150,Melina Montenegro,44,M,São Paulo,MG,Online
+151,João Vitor Fonseca,26,M,São Paulo,SP,Loja Física
+152,João Felipe Barbosa,32,M,Curitiba,SP,Loja Física
+153,Arthur Gabriel Cirino,32,F,Curitiba,SP,Online
+154,Ravi Lucca Pastor,43,F,Curitiba,RJ,Loja Física
+155,Emanuella Martins,59,M,São Paulo,RJ,Online
+156,Felipe Cavalcanti,30,M,São Paulo,SP,Online
+157,Eduardo Siqueira,68,F,Curitiba,RJ,Online
+158,Ísis Guerra,49,M,Porto Alegre,RS,Loja Física
+159,Mirella Borges,56,M,Porto Alegre,RS,Online
+160,Maria Julia Novaes,66,M,Rio de Janeiro,RJ,Online
+161,Enzo Gabriel Pacheco,69,F,Belo Horizonte,SP,Online
+162,Antonella Azevedo,49,F,Porto Alegre,RJ,Loja Física
+163,Lorenzo Câmara,21,F,São Paulo,RJ,Loja Física
+164,Maria Laura Araújo,47,F,Porto Alegre,RJ,Loja Física
+165,Srta. Valentina Pacheco,54,F,Rio de Janeiro,MG,Loja Física
+166,Srta. Ana Lívia da Rosa,40,M,Rio de Janeiro,RS,Loja Física
+167,Dante Fernandes,56,F,Belo Horizonte,PR,Loja Física
+168,Letícia Rezende,62,M,Porto Alegre,PR,Loja Física
+169,Otávio Montenegro,32,M,São Paulo,MG,Online
+170,Valentina Abreu,60,F,São Paulo,RJ,Online
+171,Théo Brito,46,F,Curitiba,MG,Online
+172,Rhavi Lima,53,M,São Paulo,MG,Online
+173,Srta. Yasmin Ferreira,30,M,Belo Horizonte,SP,Loja Física
+174,João Lucas Pires,49,M,Belo Horizonte,RS,Online
+175,Olívia Borges,24,F,São Paulo,PR,Online
+176,Luiz Miguel Almeida,68,F,São Paulo,RJ,Online
+177,Davi Miguel Ferreira,39,F,Curitiba,PR,Online
+178,Letícia Rezende,45,F,São Paulo,PR,Loja Física
+179,Daniel Gonçalves,19,F,Curitiba,RS,Loja Física
+180,Danilo da Luz,59,M,Curitiba,PR,Loja Física
+181,Stephany Cunha,62,F,São Paulo,PR,Online
+182,Gabriela da Luz,23,M,Rio de Janeiro,MG,Loja Física
+183,Ana Carolina Sá,45,M,Rio de Janeiro,RS,Online
+184,Kevin Pastor,45,M,Curitiba,SP,Loja Física
+185,Guilherme Melo,61,F,São Paulo,RJ,Loja Física
+186,Gael Henrique Moraes,61,F,Rio de Janeiro,PR,Loja Física
+187,Dr. Rael Sampaio,37,F,São Paulo,RJ,Loja Física
+188,Alexandre Carvalho,47,M,São Paulo,SP,Loja Física
+189,Léo Rios,28,M,São Paulo,RJ,Online
+190,Zoe Barros,45,M,Porto Alegre,SP,Loja Física
+191,Anthony Gabriel Porto,42,M,São Paulo,MG,Online
+192,Sara Pires,56,M,Porto Alegre,PR,Online
+193,Lucas Camargo,50,M,Curitiba,SP,Online
+194,Ana Beatriz Vasconcelos,18,F,Rio de Janeiro,RJ,Online
+195,Raquel Barbosa,44,F,Rio de Janeiro,PR,Online
+196,Dr. Vinícius Duarte,69,F,Rio de Janeiro,MG,Loja Física
+197,Dra. Camila Fernandes,30,F,Rio de Janeiro,PR,Loja Física
+198,Srta. Eloá Lima,58,M,Rio de Janeiro,SP,Loja Física
+199,Helena Teixeira,20,M,Rio de Janeiro,MG,Loja Física
+200,Isabel Brito,56,F,Rio de Janeiro,RJ,Online
+201,Murilo Fernandes,23,M,Curitiba,MG,Loja Física
+202,Pedro Nascimento,25,F,São Paulo,MG,Loja Física
+203,Aylla Cavalcante,44,F,Belo Horizonte,RS,Online
+204,Dr. Benicio Pires,26,F,Porto Alegre,MG,Online
+205,Maya Cavalcanti,54,M,Belo Horizonte,MG,Loja Física
+206,Carolina da Luz,50,F,Belo Horizonte,PR,Loja Física
+207,Dr. Breno Albuquerque,68,F,São Paulo,RJ,Online
+208,Mateus Peixoto,59,F,São Paulo,PR,Loja Física
+209,Emanuel Sousa,61,M,São Paulo,PR,Loja Física
+210,Mirella Machado,41,M,Rio de Janeiro,SP,Loja Física
+211,Gabriel Mendonça,32,F,Curitiba,PR,Loja Física
+212,José Viana,49,M,Rio de Janeiro,RS,Online
+213,Júlia Montenegro,49,M,Curitiba,RS,Online
+214,Luiz Gustavo Pinto,41,M,Curitiba,SP,Online
+215,Gael da Paz,58,M,Belo Horizonte,RJ,Loja Física
+216,Lorenzo Barbosa,69,M,Belo Horizonte,RJ,Loja Física
+217,Dra. Manuella Viana,66,M,Curitiba,PR,Loja Física
+218,Levi Campos,66,M,Curitiba,PR,Loja Física
+219,Arthur Rezende,69,M,Rio de Janeiro,PR,Loja Física
+220,Liz Souza,29,M,Rio de Janeiro,RJ,Online
+221,Isis Moreira,56,M,Belo Horizonte,MG,Loja Física
+222,Arthur Gabriel Câmara,19,F,São Paulo,RS,Loja Física
+223,Yan Araújo,20,F,Curitiba,MG,Online
+224,Maria Fernanda da Cruz,66,M,Rio de Janeiro,MG,Loja Física
+225,Ana Clara Cirino,54,F,Belo Horizonte,RJ,Online
+226,Ester Gonçalves,66,F,Rio de Janeiro,MG,Online
+227,Antonella Vargas,34,M,Curitiba,SP,Online
+228,Pedro Miguel Sá,66,M,Curitiba,PR,Online
+229,Kaique Jesus,19,M,Porto Alegre,SP,Online
+230,Luiz Fernando da Luz,19,F,São Paulo,RS,Loja Física
+231,Kamilly Guerra,45,F,Porto Alegre,PR,Online
+232,Maria Helena Nascimento,40,M,Belo Horizonte,MG,Online
+233,Anthony Gabriel Porto,54,M,Rio de Janeiro,RS,Loja Física
+234,Mariane Moraes,49,M,Belo Horizonte,PR,Loja Física
+235,Enzo Gabriel Rios,50,F,Curitiba,MG,Online
+236,Maria Vitória Câmara,18,F,Porto Alegre,SP,Loja Física
+237,Aylla Cavalcanti,36,F,Porto Alegre,PR,Loja Física
+238,João Lucas Pacheco,19,F,Porto Alegre,MG,Online
+239,Isaque Sampaio,61,M,Belo Horizonte,SP,Online
+240,Heitor Monteiro,43,M,Curitiba,RS,Loja Física
+241,Dr. Eduardo da Cruz,49,M,Rio de Janeiro,RS,Online
+242,Dr. Samuel da Rosa,23,M,Rio de Janeiro,RS,Online
+243,Luiz Felipe Monteiro,49,F,Belo Horizonte,RS,Loja Física
+244,Caio Leão,21,F,Porto Alegre,RJ,Online
+245,Dr. José Casa Grande,28,M,São Paulo,PR,Online
+246,Maysa Viana,34,M,Belo Horizonte,PR,Online
+247,Liam da Cruz,55,F,Belo Horizonte,RJ,Online
+248,Nathan Caldeira,41,M,Curitiba,MG,Online
+249,Dra. Ana Liz Rios,22,F,Rio de Janeiro,MG,Loja Física
+250,Stephany Moura,69,M,Belo Horizonte,RS,Loja Física
+251,Ana Liz Ribeiro,51,M,Belo Horizonte,SP,Online
+252,João Pereira,23,M,Porto Alegre,MG,Loja Física
+253,Hellena Gonçalves,39,M,Porto Alegre,SP,Online
+254,Fernando Silveira,28,M,São Paulo,PR,Online
+255,Benjamin Nogueira,65,M,Curitiba,SP,Online
+256,Felipe Pimenta,33,M,São Paulo,PR,Online
+257,Anthony Gabriel Gomes,50,F,Porto Alegre,RJ,Online
+258,Srta. Bruna Ribeiro,26,F,Rio de Janeiro,RJ,Loja Física
+259,Juliana Martins,23,F,Porto Alegre,RS,Loja Física
+260,Luiza Correia,33,F,Curitiba,MG,Online
+261,Valentina Casa Grande,46,F,Porto Alegre,RS,Loja Física
+262,Bento Sousa,20,M,Curitiba,PR,Online
+263,Luara Sousa,37,M,Curitiba,RS,Loja Física
+264,Lívia Cirino,53,F,Curitiba,SP,Online
+265,Bruno Pereira,36,M,Curitiba,PR,Loja Física
+266,Nicole Campos,43,F,Curitiba,RJ,Online
+267,Rafael da Paz,20,F,Rio de Janeiro,MG,Online
+268,Raul Camargo,36,M,São Paulo,PR,Loja Física
+269,Ester Azevedo,37,M,Belo Horizonte,PR,Loja Física
+270,Nicole da Cunha,49,M,São Paulo,SP,Online
+271,Sophie Pastor,24,F,Curitiba,MG,Loja Física
+272,Mirella Lopes,69,M,Rio de Janeiro,RJ,Online
+273,Allana Duarte,58,F,Porto Alegre,PR,Loja Física
+274,Théo Monteiro,50,F,Rio de Janeiro,PR,Loja Física
+275,João Miguel Borges,57,F,Curitiba,SP,Online
+276,Larissa Sales,56,M,Rio de Janeiro,RS,Loja Física
+277,Vitor Hugo Viana,35,M,Rio de Janeiro,RJ,Loja Física
+278,Mariah da Rosa,57,F,Curitiba,MG,Online
+279,Clarice Correia,18,M,Rio de Janeiro,PR,Loja Física
+280,Hellena Cirino,28,M,Belo Horizonte,PR,Online
+281,Alexandre Câmara,45,M,Belo Horizonte,RJ,Online
+282,Dr. Arthur Miguel Garcia,42,F,Rio de Janeiro,RS,Online
+283,Henry Gabriel Ramos,67,F,Porto Alegre,PR,Online
+284,Natália Lima,40,M,Curitiba,RJ,Online
+285,Luísa Sampaio,48,F,Belo Horizonte,SP,Loja Física
+286,Maria Júlia Casa Grande,47,M,Porto Alegre,RS,Online
+287,Alexandre Correia,59,M,Rio de Janeiro,MG,Online
+288,Kaique Gonçalves,52,M,Porto Alegre,PR,Loja Física
+289,Pedro Guerra,24,M,São Paulo,RJ,Loja Física
+290,Gabriela Pacheco,33,F,Belo Horizonte,SP,Loja Física
+291,Francisco Rezende,43,F,Rio de Janeiro,MG,Online
+292,João Lucas Cavalcanti,65,F,Curitiba,RJ,Online
+293,Yan Barbosa,69,M,Rio de Janeiro,RJ,Online
+294,Bianca Alves,66,M,Curitiba,MG,Loja Física
+295,Thomas Machado,19,M,Rio de Janeiro,SP,Online
+296,Dr. Mateus Cavalcante,18,F,Porto Alegre,SP,Loja Física
+297,Luiza Andrade,65,M,Porto Alegre,RS,Online
+298,Cecília Costela,29,F,Porto Alegre,PR,Loja Física
+299,Maria Fernanda da Luz,22,F,São Paulo,MG,Online
+300,Maria Júlia da Cunha,54,F,Curitiba,MG,Online
+301,Henrique Sousa,49,F,Porto Alegre,MG,Online
+302,João Guilherme Pimenta,26,F,São Paulo,SP,Loja Física
+303,Bernardo Duarte,58,F,Curitiba,PR,Loja Física
+304,João Vitor Albuquerque,52,M,Rio de Janeiro,RS,Online
+305,Maria Eduarda Guerra,36,M,São Paulo,RJ,Online
+306,Isaque Nascimento,65,F,Belo Horizonte,RJ,Online
+307,Ágatha Ramos,33,F,São Paulo,MG,Loja Física
+308,Paulo Farias,20,M,São Paulo,PR,Online
+309,Antônio Siqueira,37,F,Curitiba,SP,Online
+310,Ana Cecília Aparecida,41,F,Rio de Janeiro,PR,Online
+311,Miguel Ramos,50,M,Belo Horizonte,PR,Online
+312,Lorena Porto,41,F,Porto Alegre,SP,Loja Física
+313,Lunna Rodrigues,69,F,Porto Alegre,MG,Loja Física
+314,Pedro Miguel da Luz,28,F,São Paulo,PR,Online
+315,Manuela Nunes,66,M,Curitiba,RJ,Online
+316,Stella Freitas,25,M,Curitiba,SP,Loja Física
+317,Rael Cavalcanti,53,M,Porto Alegre,RS,Loja Física
+318,Cecilia Garcia,55,F,Belo Horizonte,MG,Online
+319,Antonella Sá,57,F,Rio de Janeiro,SP,Loja Física
+320,Eduarda da Cunha,37,M,Belo Horizonte,RS,Loja Física
+321,João Guilherme Jesus,52,F,Rio de Janeiro,RS,Online
+322,Levi Macedo,65,F,Porto Alegre,PR,Loja Física
+323,Vicente Leão,42,F,Rio de Janeiro,PR,Loja Física
+324,Dra. Maria Luiza Rodrigues,52,F,Curitiba,PR,Online
+325,Alana Sales,42,F,São Paulo,SP,Online
+326,Maria Isis Vieira,46,M,São Paulo,SP,Loja Física
+327,Isabela Alves,35,F,Porto Alegre,MG,Online
+328,Stephany Rodrigues,63,M,Curitiba,PR,Loja Física
+329,Brayan Araújo,35,F,Belo Horizonte,RS,Online
+330,Luana Novaes,19,M,Curitiba,RJ,Loja Física
+331,Daniela Santos,52,F,São Paulo,MG,Online
+332,Catarina Campos,33,M,São Paulo,SP,Loja Física
+333,Davi Campos,58,F,Curitiba,MG,Loja Física
+334,Nathan Mendonça,53,M,Curitiba,MG,Loja Física
+335,Letícia Costa,50,F,São Paulo,MG,Online
+336,Allana Brito,21,M,Belo Horizonte,MG,Online
+337,Davi Cunha,50,F,Porto Alegre,RJ,Loja Física
+338,Maria Isis Rodrigues,31,M,Porto Alegre,PR,Loja Física
+339,Yuri Vargas,38,M,Curitiba,RS,Online
+340,Gabrielly das Neves,65,F,Porto Alegre,MG,Online
+341,Dr. Nathan Albuquerque,37,F,São Paulo,MG,Online
+342,Srta. Agatha Gomes,25,M,São Paulo,MG,Online
+343,Ágatha Siqueira,24,F,Curitiba,PR,Online
+344,Bella Machado,20,M,Curitiba,SP,Online
+345,Pietra Aragão,34,M,Curitiba,SP,Loja Física
+346,Maria Júlia Oliveira,50,M,Belo Horizonte,RJ,Online
+347,Maria Cecília Lima,65,F,Porto Alegre,SP,Loja Física
+348,Sara Moreira,29,M,Curitiba,MG,Online
+349,Gustavo Rocha,68,M,Rio de Janeiro,MG,Online
+350,Davi Luiz Peixoto,39,F,Rio de Janeiro,MG,Loja Física
+351,Manuela Castro,39,F,São Paulo,RJ,Loja Física
+352,Alice da Mota,63,F,Porto Alegre,MG,Online
+353,Fernanda Machado,47,F,Curitiba,SP,Loja Física
+354,Henry Fogaça,55,M,Rio de Janeiro,PR,Loja Física
+355,Milena Jesus,55,M,Porto Alegre,PR,Loja Física
+356,Isabelly Novais,62,M,São Paulo,RS,Loja Física
+357,Carlos Eduardo da Costa,68,M,Belo Horizonte,SP,Online
+358,Júlia Cirino,25,F,Porto Alegre,MG,Loja Física
+359,Ana Cecília Fogaça,44,M,Porto Alegre,PR,Online
+360,Ravi Lucca Freitas,44,M,Belo Horizonte,SP,Online
+361,Ana Sophia Moreira,51,F,Porto Alegre,PR,Online
+362,Camila Carvalho,38,M,São Paulo,MG,Online
+363,Sofia Pinto,47,M,São Paulo,PR,Loja Física
+364,Leandro Brito,50,M,Belo Horizonte,RS,Loja Física
+365,Ana Luiza Castro,45,M,Curitiba,RS,Online
+366,Clara Guerra,64,M,Rio de Janeiro,PR,Online
+367,Marina Moreira,50,M,Curitiba,SP,Online
+368,Leonardo Carvalho,22,F,Porto Alegre,SP,Online
+369,Zoe Ferreira,65,F,Rio de Janeiro,SP,Loja Física
+370,Melina Campos,36,M,Belo Horizonte,PR,Online
+371,Emanuella Fernandes,21,M,Belo Horizonte,SP,Loja Física
+372,Sophia Santos,52,F,Rio de Janeiro,MG,Online
+373,Eduarda Nunes,66,M,São Paulo,RS,Online
+374,Samuel Sousa,34,M,Rio de Janeiro,MG,Online
+375,Gabriela Cunha,61,M,Porto Alegre,SP,Online
+376,Srta. Eloah Cassiano,45,F,São Paulo,MG,Loja Física
+377,Brayan Jesus,47,M,Belo Horizonte,SP,Loja Física
+378,Nathan Cavalcanti,46,F,Rio de Janeiro,PR,Loja Física
+379,Luiz Miguel Siqueira,63,M,Curitiba,MG,Online
+380,Laura Gomes,23,F,Curitiba,PR,Online
+381,Luna Caldeira,52,F,Porto Alegre,PR,Loja Física
+382,Dom Sousa,58,M,Curitiba,RJ,Loja Física
+383,Maysa Fernandes,54,F,Rio de Janeiro,SP,Online
+384,Maria Clara Novaes,41,M,Rio de Janeiro,RS,Online
+385,Benicio Fogaça,46,F,Curitiba,SP,Loja Física
+386,Lunna Costa,66,M,Rio de Janeiro,RS,Online
+387,Ryan Novais,63,M,Porto Alegre,SP,Online
+388,Maria Alice Cavalcanti,48,F,São Paulo,PR,Loja Física
+389,Emilly Melo,52,M,Porto Alegre,MG,Online
+390,João Lucas Rocha,50,M,Porto Alegre,MG,Loja Física
+391,Arthur Miguel Oliveira,69,F,Rio de Janeiro,RJ,Online
+392,Vitor Hugo Rodrigues,38,M,São Paulo,RS,Loja Física
+393,Benício Fonseca,49,M,Rio de Janeiro,RS,Online
+394,Emanuel da Rocha,40,F,Belo Horizonte,RS,Loja Física
+395,Breno Rios,50,F,Rio de Janeiro,PR,Loja Física
+396,Ravi Lucca Ferreira,20,M,Rio de Janeiro,RS,Loja Física
+397,Juan Martins,35,M,Rio de Janeiro,MG,Loja Física
+398,Mariane Vargas,42,F,São Paulo,PR,Online
+399,Enrico Sales,59,F,Rio de Janeiro,SP,Online
+400,Lara Jesus,48,M,São Paulo,RS,Loja Física
+401,Dra. Ana Beatriz Brito,20,F,Curitiba,RS,Online
+402,Dr. Vitor Hugo Novaes,57,M,Belo Horizonte,SP,Online
+403,Dr. Murilo Abreu,63,M,São Paulo,RS,Online
+404,Anna Liz Macedo,41,M,Curitiba,SP,Online
+405,Gael Pacheco,67,M,São Paulo,PR,Online
+406,Kaique Sales,49,M,São Paulo,MG,Loja Física
+407,Carlos Eduardo Mendonça,64,F,Belo Horizonte,SP,Loja Física
+408,Raul Pastor,39,F,Porto Alegre,RJ,Loja Física
+409,Daniela Freitas,40,F,Porto Alegre,SP,Loja Física
+410,Emanuel Aragão,19,F,São Paulo,RS,Online
+411,Dra. Beatriz Siqueira,44,M,Rio de Janeiro,PR,Online
+412,Maria Luiza Leão,59,M,Curitiba,PR,Loja Física
+413,Olivia da Rocha,19,M,Rio de Janeiro,SP,Online
+414,Arthur Gabriel Peixoto,43,M,Rio de Janeiro,MG,Online
+415,Vitor Hugo Rios,34,F,São Paulo,RJ,Loja Física
+416,Yasmin Melo,57,M,São Paulo,PR,Online
+417,Ravy Santos,50,M,São Paulo,RS,Loja Física
+418,Bianca Moreira,26,F,São Paulo,RS,Loja Física
+419,Giovanna Pimenta,60,F,Porto Alegre,MG,Online
+420,Agatha Novaes,65,F,São Paulo,PR,Online
+421,Samuel da Rocha,56,F,Porto Alegre,SP,Loja Física
+422,João Felipe Fernandes,46,M,Porto Alegre,RS,Loja Física
+423,Vitor Gabriel da Cunha,59,M,São Paulo,MG,Online
+424,Dra. Aurora Gonçalves,43,F,Belo Horizonte,PR,Loja Física
+425,Theodoro Silveira,52,M,Curitiba,PR,Loja Física
+426,Joana Oliveira,67,M,Rio de Janeiro,PR,Loja Física
+427,Luiz Miguel Pastor,42,M,Porto Alegre,PR,Online
+428,Maria Liz Carvalho,41,F,Curitiba,PR,Loja Física
+429,Ana Julia Gonçalves,30,M,Belo Horizonte,RS,Online
+430,Lavínia Vieira,24,F,Rio de Janeiro,MG,Loja Física
+431,Emilly Cirino,53,M,Rio de Janeiro,PR,Online
+432,Dr. Brayan Vieira,62,M,Porto Alegre,RJ,Loja Física
+433,Dr. Matteo Leão,37,M,São Paulo,RJ,Online
+434,Arthur Gabriel da Costa,18,F,Belo Horizonte,MG,Online
+435,Isabel Castro,25,M,Porto Alegre,SP,Online
+436,Otto Ferreira,63,F,Belo Horizonte,SP,Loja Física
+437,Luiza da Cruz,33,F,São Paulo,SP,Loja Física
+438,Melissa Pimenta,31,F,São Paulo,RJ,Loja Física
+439,Srta. Ana Carolina Barros,29,M,Porto Alegre,SP,Online
+440,Mirella Pires,68,M,São Paulo,RS,Loja Física
+441,Ryan Sales,40,M,Curitiba,PR,Online
+442,Lavínia Pinto,32,M,Rio de Janeiro,RJ,Loja Física
+443,Ester Duarte,45,F,Porto Alegre,MG,Online
+444,Luiz Gustavo Rios,51,F,Belo Horizonte,MG,Online
+445,Dr. Joaquim Nunes,19,F,Curitiba,PR,Online
+446,Eduarda Machado,49,M,Porto Alegre,RJ,Loja Física
+447,Fernando Ribeiro,40,F,São Paulo,SP,Loja Física
+448,Yuri Almeida,39,M,São Paulo,SP,Loja Física
+449,Fernanda Rodrigues,68,F,São Paulo,RS,Online
+450,Manuella Viana,42,M,São Paulo,RS,Online
+451,Marcos Vinicius Oliveira,39,M,Belo Horizonte,SP,Loja Física
+452,Guilherme da Mata,39,F,Curitiba,MG,Loja Física
+453,André Albuquerque,66,F,Rio de Janeiro,MG,Loja Física
+454,Olivia Pinto,69,F,Belo Horizonte,RS,Online
+455,Yan Porto,59,F,Belo Horizonte,PR,Online
+456,Giovanna Pires,23,M,Rio de Janeiro,SP,Online
+457,Carlos Eduardo Teixeira,32,F,Rio de Janeiro,RS,Online
+458,Murilo Vieira,60,F,São Paulo,RS,Online
+459,Agatha Freitas,54,F,Belo Horizonte,SP,Loja Física
+460,Ana Sophia Cavalcante,50,M,Porto Alegre,SP,Online
+461,Hadassa Marques,25,M,Rio de Janeiro,MG,Online
+462,Léo da Mata,61,F,Rio de Janeiro,PR,Online
+463,Zoe Ramos,61,M,Curitiba,PR,Online
+464,João Miguel Ferreira,22,F,Porto Alegre,SP,Online
+465,Ana Liz Nogueira,56,M,Porto Alegre,RJ,Loja Física
+466,Diogo Sales,21,M,Rio de Janeiro,RS,Online
+467,Nicole Garcia,23,M,São Paulo,RS,Online
+468,Maria Flor Ferreira,62,M,Curitiba,SP,Online
+469,Alícia Cirino,49,F,Porto Alegre,RJ,Loja Física
+470,Isadora Fernandes,69,F,Rio de Janeiro,MG,Loja Física
+471,Antony Jesus,47,F,Porto Alegre,SP,Loja Física
+472,Danilo Lima,64,M,Curitiba,SP,Online
+473,Laura Rodrigues,52,F,Curitiba,RS,Loja Física
+474,Valentina Pereira,57,F,Belo Horizonte,SP,Online
+475,Erick Fernandes,69,F,Rio de Janeiro,SP,Online
+476,Augusto Porto,33,M,Curitiba,SP,Loja Física
+477,Caio Pastor,30,M,Belo Horizonte,RS,Online
+478,Yago Gonçalves,67,M,Belo Horizonte,MG,Online
+479,Dra. Lara Lima,59,F,Porto Alegre,MG,Online
+480,Raul Mendonça,47,F,Porto Alegre,SP,Loja Física
+481,João Vitor da Paz,36,F,Belo Horizonte,RS,Online
+482,Asafe Novaes,34,M,Porto Alegre,MG,Online
+483,Mariane Guerra,36,M,Curitiba,MG,Loja Física
+484,Ana Laura Novaes,45,F,São Paulo,MG,Online
+485,Dr. Otto Casa Grande,43,M,Curitiba,RS,Online
+486,Srta. Luísa Costela,54,M,Belo Horizonte,RS,Loja Física
+487,Diego Duarte,43,M,Belo Horizonte,SP,Online
+488,João Miguel Macedo,40,M,Curitiba,PR,Online
+489,Manuela Cirino,26,F,Porto Alegre,MG,Online
+490,Thiago Moreira,29,M,Porto Alegre,PR,Online
+491,Dra. Mariana Pastor,18,M,Belo Horizonte,RS,Online
+492,Mirella Marques,18,M,Rio de Janeiro,RS,Loja Física
+493,Gustavo Freitas,64,M,Porto Alegre,RS,Loja Física
+494,Kevin Casa Grande,51,F,Curitiba,PR,Loja Física
+495,Isabella da Conceição,49,F,Porto Alegre,RS,Loja Física
+496,Caroline Araújo,65,M,Curitiba,SP,Online
+497,Srta. Ayla das Neves,42,M,Belo Horizonte,RS,Online
+498,Felipe Sousa,57,M,Porto Alegre,RJ,Online
+499,Dra. Natália Garcia,62,M,Curitiba,PR,Online
+500,Rhavi Pacheco,18,M,Belo Horizonte,RJ,Online
+501,Fernando Cirino,33,M,Rio de Janeiro,RS,Loja Física
+502,Theo Alves,56,F,Curitiba,SP,Loja Física
+503,Daniela Novais,22,M,Rio de Janeiro,MG,Online
+504,Alana Sales,39,F,Rio de Janeiro,RS,Online
+505,Maria Clara Borges,46,F,São Paulo,SP,Online
+506,Alice Nogueira,20,M,Porto Alegre,PR,Loja Física
+507,Stella Pacheco,29,F,Curitiba,RJ,Online
+508,Matheus da Costa,43,F,Rio de Janeiro,RJ,Online
+509,Emilly Aragão,33,F,São Paulo,RJ,Online
+510,Benjamim Carvalho,68,F,Belo Horizonte,PR,Loja Física
+511,Luísa Garcia,54,F,Curitiba,SP,Online
+512,Agatha Cardoso,39,F,Rio de Janeiro,PR,Loja Física
+513,João Lucas Vieira,46,M,Porto Alegre,RJ,Loja Física
+514,Luísa da Conceição,31,F,São Paulo,RS,Loja Física
+515,Alana Fernandes,45,F,Rio de Janeiro,MG,Loja Física
+516,Dr. Danilo Dias,22,F,Porto Alegre,PR,Loja Física
+517,Renan da Cruz,64,M,Rio de Janeiro,PR,Loja Física
+518,Ian Mendes,66,F,Curitiba,SP,Online
+519,Thiago Montenegro,47,M,Curitiba,SP,Online
+520,Luísa Barbosa,63,F,Curitiba,PR,Online
+521,Matteo Ferreira,69,M,São Paulo,RJ,Loja Física
+522,Maria Vitória Pastor,22,M,Curitiba,MG,Online
+523,Asafe Mendonça,29,F,Porto Alegre,SP,Loja Física
+524,Dr. Murilo Nunes,33,F,Rio de Janeiro,RJ,Loja Física
+525,Anna Liz Novais,43,M,Belo Horizonte,RS,Loja Física
+526,Ana Sophia Pastor,43,F,Porto Alegre,SP,Online
+527,Bárbara da Conceição,65,M,Porto Alegre,RJ,Loja Física
+528,Kaique Pereira,38,M,Curitiba,RJ,Loja Física
+529,Samuel Jesus,56,M,São Paulo,MG,Online
+530,Luana Moura,53,M,Rio de Janeiro,MG,Online
+531,Sophie Sá,50,M,São Paulo,RS,Loja Física
+532,Isabela Rios,47,F,Rio de Janeiro,RJ,Loja Física
+533,Cecília Mendonça,54,M,Rio de Janeiro,RJ,Online
+534,Amanda Andrade,40,M,São Paulo,MG,Online
+535,Alice Silveira,27,F,Porto Alegre,SP,Online
+536,Eloah Nascimento,22,M,Rio de Janeiro,SP,Loja Física
+537,Vinicius da Mota,53,F,São Paulo,PR,Online
+538,Cauê Câmara,51,F,Rio de Janeiro,MG,Online
+539,Anthony Carvalho,69,F,Belo Horizonte,PR,Online
+540,Zoe Moura,48,M,Porto Alegre,MG,Loja Física
+541,Pedro Lucas Peixoto,27,M,Curitiba,RS,Online
+542,Raquel Novais,36,M,Rio de Janeiro,RJ,Online
+543,Mariane Sampaio,49,F,Belo Horizonte,RS,Online
+544,Helena Pires,18,M,Curitiba,MG,Online
+545,Srta. Natália Sales,22,F,Curitiba,RJ,Online
+546,Theo Lopes,62,M,Rio de Janeiro,SP,Loja Física
+547,Ana Beatriz Sampaio,21,F,São Paulo,SP,Loja Física
+548,Marcos Vinicius Pacheco,33,M,Rio de Janeiro,PR,Loja Física
+549,Daniela da Paz,41,M,Belo Horizonte,MG,Online
+550,Srta. Heloisa Sales,33,M,Curitiba,MG,Loja Física
+551,Dr. Vinícius Nascimento,19,F,Rio de Janeiro,SP,Loja Física
+552,Maria Cecília Peixoto,66,F,São Paulo,RS,Loja Física
+553,Raul Martins,45,M,Rio de Janeiro,RJ,Online
+554,João Guilherme Cunha,49,M,Porto Alegre,RS,Online
+555,Mariane das Neves,44,F,São Paulo,RS,Loja Física
+556,Valentim Farias,37,F,Belo Horizonte,SP,Loja Física
+557,Bernardo Cunha,41,F,Curitiba,SP,Online
+558,Melissa Vasconcelos,29,M,Rio de Janeiro,SP,Online
+559,Lucas Gabriel Fogaça,67,F,São Paulo,PR,Loja Física
+560,Dra. Heloísa Fernandes,52,M,Porto Alegre,RS,Online
+561,Benicio Correia,50,F,São Paulo,MG,Loja Física
+562,Maria Liz Araújo,50,M,Porto Alegre,RJ,Online
+563,Isabel Fonseca,68,F,Belo Horizonte,PR,Loja Física
+564,Aylla Jesus,60,F,Curitiba,MG,Loja Física
+565,João Silva,54,F,Belo Horizonte,RS,Online
+566,Isis da Cunha,29,F,Rio de Janeiro,SP,Loja Física
+567,Bianca Peixoto,20,F,São Paulo,RS,Loja Física
+568,Dra. Pietra Vargas,18,M,Porto Alegre,RJ,Loja Física
+569,Sofia Nunes,50,F,Porto Alegre,PR,Online
+570,Beatriz Santos,57,F,São Paulo,PR,Online
+571,Raul Casa Grande,27,F,São Paulo,RJ,Online
+572,Cauê Abreu,60,M,Rio de Janeiro,MG,Loja Física
+573,Maria Liz Vieira,61,F,Belo Horizonte,MG,Online
+574,Luana Costela,46,M,Porto Alegre,PR,Loja Física
+575,Dr. Isaac Leão,30,F,Rio de Janeiro,PR,Loja Física
+576,Maria Isis Fonseca,29,F,Belo Horizonte,SP,Online
+577,Juan Mendes,48,M,Rio de Janeiro,MG,Online
+578,Oliver Mendonça,63,F,Porto Alegre,RJ,Loja Física
+579,Renan Cassiano,19,M,São Paulo,MG,Loja Física
+580,Antony Camargo,68,M,São Paulo,SP,Online
+581,Dr. José Leão,67,F,Belo Horizonte,PR,Online
+582,Isis Albuquerque,52,M,Curitiba,PR,Online
+583,Agatha Siqueira,40,F,Belo Horizonte,SP,Loja Física
+584,Benicio Cavalcante,34,F,Curitiba,RJ,Loja Física
+585,Sarah Ribeiro,43,M,Rio de Janeiro,PR,Loja Física
+586,Sabrina Vargas,25,M,Rio de Janeiro,RS,Loja Física
+587,Ana Cecília Pimenta,46,M,Porto Alegre,PR,Loja Física
+588,Renan Rios,43,M,Curitiba,RS,Online
+589,Léo Fernandes,27,F,Porto Alegre,SP,Online
+590,Heloísa Melo,43,F,São Paulo,SP,Loja Física
+591,Leonardo da Mata,51,M,Curitiba,PR,Loja Física
+592,Caleb Abreu,68,F,Belo Horizonte,MG,Online
+593,Olivia Pastor,58,F,São Paulo,RS,Online
+594,Ester da Costa,24,F,São Paulo,RJ,Online
+595,Dr. Caio Silva,21,F,Belo Horizonte,PR,Online
+596,Ana Vitória Cardoso,67,M,São Paulo,RJ,Loja Física
+597,Isabella da Costa,62,M,Curitiba,PR,Online
+598,Sophia Mendonça,28,F,Porto Alegre,MG,Loja Física
+599,Ian Teixeira,46,M,São Paulo,MG,Online
+600,Eloah Novaes,53,M,Curitiba,MG,Online
+601,Emanuelly Pinto,42,M,Rio de Janeiro,MG,Online
+602,Sarah Borges,38,F,Curitiba,SP,Loja Física
+603,Ana Cecília Porto,53,F,Porto Alegre,SP,Loja Física
+604,Bruno Silveira,27,F,Curitiba,RS,Online
+605,Ryan Casa Grande,54,M,Belo Horizonte,RJ,Loja Física
+606,Caio Mendonça,26,F,Porto Alegre,PR,Loja Física
+607,Valentim Santos,41,F,Rio de Janeiro,PR,Online
+608,Alice Vargas,52,M,Belo Horizonte,SP,Online
+609,Antony Cardoso,66,F,Curitiba,PR,Loja Física
+610,João Lucas Siqueira,52,F,Porto Alegre,SP,Loja Física
+611,Srta. Gabriela Caldeira,65,M,Rio de Janeiro,RS,Loja Física
+612,Gael Machado,53,M,Belo Horizonte,RJ,Online
+613,Benjamin Pacheco,35,M,Rio de Janeiro,RS,Online
+614,Marcelo da Mata,66,F,Curitiba,MG,Loja Física
+615,Ágatha Moreira,56,F,Rio de Janeiro,MG,Online
+616,Sara Leão,49,F,São Paulo,MG,Online
+617,Aylla Montenegro,41,M,Belo Horizonte,RS,Loja Física
+618,Camila Cavalcanti,40,M,Rio de Janeiro,PR,Loja Física
+619,Luiz Felipe Costa,49,F,Curitiba,RJ,Online
+620,Vicente Ramos,54,F,Curitiba,MG,Online
+621,Maria Sampaio,29,M,Rio de Janeiro,MG,Loja Física
+622,Isaque Dias,66,M,Curitiba,MG,Online
+623,Joaquim Pacheco,30,M,Porto Alegre,RJ,Online
+624,Erick Lopes,40,M,Porto Alegre,MG,Loja Física
+625,Joana Pinto,42,F,Porto Alegre,RJ,Loja Física
+626,Emanuel Souza,52,M,São Paulo,MG,Online
+627,Lorenzo Camargo,58,F,Rio de Janeiro,RS,Online
+628,Fernanda Macedo,47,F,São Paulo,RS,Online
+629,Mariana Novaes,34,F,Curitiba,RJ,Loja Física
+630,Joana da Mata,66,M,São Paulo,RS,Online
+631,Yuri Aparecida,37,M,Curitiba,RJ,Online
+632,Leandro Jesus,65,M,Curitiba,RS,Loja Física
+633,Luara Albuquerque,42,M,Belo Horizonte,RS,Loja Física
+634,Heitor das Neves,39,F,Porto Alegre,RJ,Online
+635,Lucas Gabriel Brito,30,M,Curitiba,PR,Loja Física
+636,Davi Miguel Sales,36,M,Belo Horizonte,RS,Loja Física
+637,Srta. Ester da Rosa,66,F,Porto Alegre,MG,Online
+638,Dr. Davi Guerra,53,M,Curitiba,PR,Loja Física
+639,Luna Gonçalves,29,F,Curitiba,RJ,Loja Física
+640,Antônio Camargo,58,F,São Paulo,PR,Online
+641,Enrico Castro,36,F,São Paulo,SP,Loja Física
+642,Lorena da Costa,29,F,Porto Alegre,SP,Online
+643,Kamilly Ramos,26,F,Curitiba,RS,Online
+644,Dom Fogaça,24,F,Rio de Janeiro,RS,Loja Física
+645,Theo Ferreira,45,F,São Paulo,MG,Loja Física
+646,Guilherme Costa,31,F,Porto Alegre,PR,Loja Física
+647,Dra. Raquel Rodrigues,48,M,Curitiba,SP,Online
+648,Maria Júlia Peixoto,69,M,Curitiba,RS,Loja Física
+649,Emilly Aragão,36,M,Rio de Janeiro,PR,Online
+650,Ester Lopes,64,M,Porto Alegre,RS,Loja Física
+651,Benicio Almeida,33,F,Curitiba,RS,Loja Física
+652,Luiza Alves,22,M,São Paulo,SP,Loja Física
+653,Enrico Marques,52,F,Rio de Janeiro,SP,Online
+654,Dr. Yuri Novaes,29,M,Porto Alegre,RS,Loja Física
+655,Antonella Brito,42,M,Rio de Janeiro,RJ,Loja Física
+656,Sarah Freitas,69,M,São Paulo,RS,Online
+657,Rhavi Nascimento,38,F,Porto Alegre,RS,Online
+658,Maysa Abreu,53,M,Rio de Janeiro,MG,Loja Física
+659,Diego Pinto,40,F,Belo Horizonte,MG,Loja Física
+660,Srta. Manuella Costela,33,F,São Paulo,MG,Loja Física
+661,Maria Câmara,56,M,São Paulo,RJ,Online
+662,Olivia Dias,62,M,São Paulo,RJ,Online
+663,Ana Cecília Albuquerque,59,M,Belo Horizonte,RS,Online
+664,Bernardo Barros,56,F,Belo Horizonte,MG,Online
+665,Maria Fernanda Andrade,31,M,Curitiba,RJ,Loja Física
+666,Dr. Raul da Rocha,48,F,Rio de Janeiro,SP,Online
+667,Ísis Pimenta,22,F,Curitiba,RS,Online
+668,Asafe Nascimento,52,M,Rio de Janeiro,PR,Online
+669,Valentina Garcia,40,M,Belo Horizonte,RS,Loja Física
+670,Letícia Gonçalves,46,F,Belo Horizonte,PR,Loja Física
+671,Laís Melo,60,F,Curitiba,MG,Online
+672,Ana Dias,28,F,Porto Alegre,PR,Online
+673,Lara Câmara,35,M,Curitiba,MG,Loja Física
+674,Isabela Teixeira,64,F,Rio de Janeiro,SP,Loja Física
+675,José Pedro Dias,29,M,Curitiba,PR,Loja Física
+676,Otávio Barros,26,F,São Paulo,RS,Loja Física
+677,Rael Rios,27,F,Rio de Janeiro,MG,Loja Física
+678,Dra. Rafaela Porto,61,M,Rio de Janeiro,RS,Loja Física
+679,Miguel Oliveira,34,F,Porto Alegre,RJ,Loja Física
+680,Lorenzo Rodrigues,55,M,Belo Horizonte,MG,Loja Física
+681,Rebeca das Neves,24,M,Rio de Janeiro,PR,Online
+682,Isadora da Costa,63,F,Belo Horizonte,MG,Online
+683,Camila Cirino,30,M,Curitiba,RS,Online
+684,Clarice Novais,57,M,São Paulo,SP,Online
+685,Srta. Daniela Abreu,59,F,Porto Alegre,MG,Online
+686,Pietro Sales,26,M,Belo Horizonte,PR,Online
+687,Yuri Rezende,67,M,Rio de Janeiro,RJ,Loja Física
+688,Ravi Jesus,44,M,Belo Horizonte,SP,Loja Física
+689,Vicente Aparecida,19,F,Rio de Janeiro,RJ,Online
+690,Luiz Fernando Cunha,22,M,Belo Horizonte,MG,Online
+691,Gael Cirino,46,F,Rio de Janeiro,RS,Loja Física
+692,Marcela Rocha,54,F,Curitiba,RS,Loja Física
+693,João Guilherme Lima,55,M,Rio de Janeiro,PR,Loja Física
+694,Aurora Brito,36,M,Rio de Janeiro,RS,Online
+695,Laís Gonçalves,25,M,São Paulo,SP,Loja Física
+696,Beatriz Pereira,65,F,Rio de Janeiro,RS,Online
+697,Dr. Antony Costa,62,M,São Paulo,PR,Online
+698,Beatriz Farias,18,M,Porto Alegre,MG,Loja Física
+699,Yan Vasconcelos,39,M,São Paulo,MG,Loja Física
+700,Pietro Silveira,69,M,Curitiba,RS,Online
+701,Benjamim Pastor,34,M,São Paulo,RJ,Loja Física
+702,Dra. Heloisa Costela,24,F,Porto Alegre,MG,Loja Física
+703,Gabriela Abreu,42,F,Curitiba,RS,Online
+704,Melina Moura,62,M,Belo Horizonte,PR,Loja Física
+705,Dra. Bárbara Rios,21,M,Belo Horizonte,RS,Online
+706,Emanuelly Souza,53,M,São Paulo,MG,Online
+707,Melissa Pires,23,M,São Paulo,PR,Loja Física
+708,Bianca das Neves,48,F,Porto Alegre,RS,Online
+709,Heloisa da Conceição,36,M,Porto Alegre,SP,Online
+710,Emanuelly Nascimento,61,F,Rio de Janeiro,PR,Loja Física
+711,Maria Júlia Santos,56,F,Porto Alegre,SP,Loja Física
+712,Heloísa Freitas,44,M,Rio de Janeiro,RJ,Loja Física
+713,Bruno Vieira,27,F,Curitiba,PR,Online
+714,Henrique Cavalcanti,43,F,São Paulo,SP,Online
+715,Ísis Casa Grande,36,F,Curitiba,MG,Loja Física
+716,Maria Júlia Oliveira,56,F,Porto Alegre,MG,Online
+717,Rafael Costela,20,M,Curitiba,RJ,Loja Física
+718,Eduarda da Rosa,62,M,Curitiba,PR,Loja Física
+719,Raquel Pimenta,30,F,Curitiba,PR,Online
+720,Maitê Caldeira,67,M,Porto Alegre,PR,Loja Física
+721,Brayan Monteiro,45,M,Curitiba,RJ,Online
+722,Ana Lívia da Paz,37,M,Rio de Janeiro,PR,Online
+723,Dra. Isadora Sousa,45,M,Porto Alegre,MG,Loja Física
+724,Gabriel Alves,25,M,Curitiba,SP,Online
+725,Beatriz Jesus,58,F,Porto Alegre,MG,Loja Física
+726,Esther Moreira,56,M,Belo Horizonte,MG,Online
+727,Rhavi Teixeira,18,M,Rio de Janeiro,SP,Online
+728,Aylla Peixoto,20,M,Curitiba,MG,Online
+729,Jade Costela,30,M,Belo Horizonte,RJ,Loja Física
+730,Ayla Montenegro,45,F,Belo Horizonte,SP,Online
+731,Dra. Anna Liz da Rocha,66,F,Porto Alegre,MG,Loja Física
+732,Arthur Miguel Freitas,42,F,Belo Horizonte,RS,Online
+733,Brenda Marques,50,F,Rio de Janeiro,MG,Online
+734,Josué Monteiro,55,M,Rio de Janeiro,RJ,Loja Física
+735,Matheus Silva,23,F,São Paulo,PR,Loja Física
+736,Dr. Francisco Marques,61,M,Rio de Janeiro,MG,Loja Física
+737,Maria Eduarda Cardoso,62,M,Belo Horizonte,PR,Loja Física
+738,Ayla Lopes,49,M,Rio de Janeiro,RS,Loja Física
+739,Natália Cunha,62,M,Porto Alegre,MG,Online
+740,Dr. Rafael Gonçalves,64,M,São Paulo,SP,Online
+741,Otto Dias,38,F,Belo Horizonte,PR,Loja Física
+742,Helena Campos,33,F,São Paulo,RS,Online
+743,Cauê Ramos,38,F,Belo Horizonte,SP,Online
+744,Clarice Sampaio,28,F,Porto Alegre,SP,Online
+745,Srta. Eloá Aparecida,54,M,São Paulo,SP,Loja Física
+746,Mariane Gonçalves,53,F,Curitiba,SP,Online
+747,Emanuel das Neves,52,M,Belo Horizonte,MG,Online
+748,Maria Azevedo,36,F,Curitiba,MG,Online
+749,Yasmin da Cunha,37,M,São Paulo,MG,Loja Física
+750,Raul Siqueira,35,M,Curitiba,RS,Online
+751,Vitor Gabriel Barbosa,64,F,Curitiba,RS,Online
+752,Mariah Mendes,58,M,São Paulo,RS,Loja Física
+753,João Felipe Silva,66,M,Porto Alegre,RJ,Loja Física
+754,João Gabriel Alves,31,F,Curitiba,RS,Online
+755,Paulo da Mata,32,M,Curitiba,MG,Online
+756,Noah da Paz,48,F,Porto Alegre,MG,Loja Física
+757,Valentina Mendonça,18,F,Curitiba,RJ,Loja Física
+758,Gabriela Ferreira,20,F,Curitiba,RJ,Loja Física
+759,Ana Clara Araújo,33,M,Curitiba,RS,Loja Física
+760,Ravy Abreu,40,M,Rio de Janeiro,PR,Loja Física
+761,Gabriel Duarte,28,M,Porto Alegre,RJ,Loja Física
+762,Maria Cecília Sousa,29,F,Curitiba,SP,Loja Física
+763,Ana Lívia Leão,27,M,Porto Alegre,MG,Online
+764,Henrique Lima,49,F,Belo Horizonte,SP,Loja Física
+765,Luiz Otávio Andrade,33,F,Belo Horizonte,MG,Loja Física
+766,Dr. João Felipe Campos,25,M,Curitiba,MG,Online
+767,Gustavo Henrique Mendonça,55,F,Porto Alegre,RJ,Loja Física
+768,Ana Laura Rodrigues,29,M,Porto Alegre,RJ,Loja Física
+769,Luiz Fernando da Rosa,41,M,Porto Alegre,SP,Online
+770,Maysa Cavalcanti,45,M,Rio de Janeiro,MG,Loja Física
+771,Theodoro Pimenta,25,M,Belo Horizonte,SP,Online
+772,Yan Ferreira,45,M,Porto Alegre,PR,Online
+773,Eloah Castro,53,F,Porto Alegre,SP,Online
+774,Dra. Isis Duarte,43,F,Rio de Janeiro,RS,Online
+775,Rodrigo Fogaça,25,F,Rio de Janeiro,SP,Loja Física
+776,Dra. Letícia Abreu,67,M,Porto Alegre,RS,Online
+777,Luiz Gustavo da Rosa,45,M,São Paulo,RS,Online
+778,Arthur Rios,45,M,Porto Alegre,RS,Loja Física
+779,Daniel Campos,54,F,Porto Alegre,PR,Online
+780,Henry Machado,58,M,Rio de Janeiro,SP,Online
+781,Mariah Barros,53,F,Rio de Janeiro,SP,Online
+782,Heloisa Vieira,44,F,Porto Alegre,PR,Online
+783,Letícia Cavalcanti,34,M,Porto Alegre,MG,Loja Física
+784,Luiz Otávio Garcia,26,M,Porto Alegre,RJ,Online
+785,Yuri Jesus,50,F,Rio de Janeiro,SP,Loja Física
+786,Gabriela Garcia,37,M,Porto Alegre,RJ,Loja Física
+787,Emanuelly Pinto,30,F,Porto Alegre,PR,Online
+788,Ravi Lucca Freitas,45,M,Curitiba,MG,Online
+789,Carlos Eduardo Abreu,65,M,São Paulo,MG,Online
+790,Bella Aragão,46,F,Belo Horizonte,MG,Online
+791,Isaac Campos,30,M,São Paulo,PR,Loja Física
+792,Dr. Pedro Lucas Barros,63,F,Curitiba,RS,Loja Física
+793,Dr. Bernardo Oliveira,52,M,Belo Horizonte,RS,Loja Física
+794,Dra. Isabela Almeida,23,F,Porto Alegre,RJ,Online
+795,Bruna Alves,35,F,Curitiba,RS,Loja Física
+796,Leandro Rezende,68,M,Porto Alegre,RS,Online
+797,Samuel Silveira,22,F,Rio de Janeiro,MG,Online
+798,Danilo Rezende,64,M,Curitiba,MG,Online
+799,Maitê Moura,42,M,Rio de Janeiro,RJ,Online
+800,Sofia Martins,19,M,Curitiba,SP,Online
+801,Cauê Vieira,27,F,Curitiba,RJ,Loja Física
+802,Isadora Siqueira,47,F,Rio de Janeiro,RJ,Loja Física
+803,Asafe das Neves,67,M,Belo Horizonte,PR,Online
+804,Jade Lima,62,M,São Paulo,PR,Loja Física
+805,Luana Cirino,22,F,Porto Alegre,RJ,Online
+806,Isaac Guerra,50,M,Curitiba,RJ,Online
+807,Lara Ferreira,18,M,Porto Alegre,RJ,Online
+808,Alexia Macedo,35,F,Rio de Janeiro,RS,Loja Física
+809,Mirella Leão,49,M,Porto Alegre,PR,Online
+810,Alana Marques,64,F,Rio de Janeiro,RJ,Online
+811,Fernando Monteiro,66,M,Porto Alegre,MG,Loja Física
+812,Maria Liz Rios,28,F,São Paulo,MG,Loja Física
+813,Juliana Cavalcante,38,M,São Paulo,RS,Loja Física
+814,Nathan Ferreira,43,M,São Paulo,RS,Online
+815,Olívia Dias,42,F,São Paulo,SP,Online
+816,Anthony Gabriel Moraes,39,M,São Paulo,SP,Loja Física
+817,Maria Luísa Leão,44,F,São Paulo,SP,Online
+818,Sara Guerra,66,M,Rio de Janeiro,RS,Loja Física
+819,Allana Borges,30,F,Curitiba,RS,Loja Física
+820,Ana Vitória Pereira,50,F,Porto Alegre,RS,Online
+821,Henry Fonseca,51,F,São Paulo,MG,Online
+822,Mateus Viana,58,F,Rio de Janeiro,RS,Loja Física
+823,Rafael Ribeiro,52,M,Rio de Janeiro,MG,Loja Física
+824,Gabrielly Vieira,18,M,Rio de Janeiro,SP,Loja Física
+825,Caleb Andrade,38,F,Curitiba,SP,Loja Física
+826,Raul Dias,65,F,Porto Alegre,SP,Online
+827,Maria Flor Novaes,23,F,Curitiba,RJ,Loja Física
+828,Davi Cavalcante,45,M,Belo Horizonte,RJ,Loja Física
+829,Breno Mendonça,34,M,Rio de Janeiro,PR,Loja Física
+830,Luiza Costela,22,M,Belo Horizonte,PR,Online
+831,Letícia Alves,48,M,São Paulo,PR,Online
+832,Rafael Melo,22,F,São Paulo,RJ,Loja Física
+833,Vitor Hugo Alves,55,F,Curitiba,RJ,Online
+834,Pedro Miguel Rios,20,F,Porto Alegre,PR,Online
+835,Thales Pinto,40,M,Belo Horizonte,PR,Online
+836,Miguel Lima,54,M,Porto Alegre,RS,Loja Física
+837,Lavínia da Cruz,54,M,Curitiba,PR,Loja Física
+838,Théo Dias,27,F,São Paulo,RS,Online
+839,Dra. Camila Pastor,27,F,Porto Alegre,MG,Loja Física
+840,João Gabriel da Cunha,36,M,Porto Alegre,RJ,Loja Física
+841,Fernando Souza,34,F,São Paulo,PR,Online
+842,Esther Cunha,38,M,Belo Horizonte,RJ,Online
+843,Enrico Leão,31,M,São Paulo,RJ,Loja Física
+844,Luísa Alves,26,F,Porto Alegre,RJ,Online
+845,Pietra Nascimento,63,M,Belo Horizonte,MG,Loja Física
+846,Leandro Pereira,18,F,Belo Horizonte,SP,Loja Física
+847,Joana Martins,68,M,São Paulo,PR,Online
+848,Julia da Luz,62,F,Porto Alegre,SP,Loja Física
+849,Isabela da Cunha,30,F,Curitiba,SP,Loja Física
+850,Bryan Ramos,21,F,Porto Alegre,SP,Online
+851,Yasmin Sampaio,18,M,Rio de Janeiro,RJ,Online
+852,Vitor Hugo Aragão,66,M,Curitiba,RS,Online
+853,João Miguel Monteiro,57,F,Belo Horizonte,RJ,Loja Física
+854,Heitor Souza,49,F,Curitiba,RJ,Online
+855,Heitor Ribeiro,51,M,Belo Horizonte,SP,Online
+856,Pedro Henrique Nascimento,45,M,Belo Horizonte,RJ,Online
+857,Rafaela da Conceição,48,M,Curitiba,SP,Online
+858,Diogo da Rosa,25,F,Belo Horizonte,RS,Loja Física
+859,Marcelo Peixoto,56,M,Belo Horizonte,PR,Loja Física
+860,Dr. Vitor Hugo Gomes,43,M,Rio de Janeiro,SP,Online
+861,Heloísa Vasconcelos,51,F,Porto Alegre,RS,Loja Física
+862,Valentim Moreira,20,M,Porto Alegre,PR,Online
+863,Raquel Pires,67,M,Rio de Janeiro,MG,Online
+864,João Vitor Caldeira,29,M,Curitiba,SP,Loja Física
+865,Juliana da Costa,18,F,São Paulo,SP,Loja Física
+866,Mateus Fogaça,61,F,São Paulo,MG,Online
+867,João Lucas Viana,22,F,São Paulo,MG,Online
+868,Letícia Dias,47,F,Rio de Janeiro,SP,Loja Física
+869,Gael Henrique Silva,47,F,Rio de Janeiro,MG,Online
+870,Catarina Nogueira,34,F,Belo Horizonte,RJ,Loja Física
+871,Isabela Silva,65,F,São Paulo,PR,Online
+872,Dr. Yan da Mata,64,M,Curitiba,PR,Online
+873,Dra. Julia Costela,40,M,Curitiba,PR,Loja Física
+874,Ana Julia Abreu,32,F,São Paulo,RJ,Loja Física
+875,Matheus Lopes,54,M,São Paulo,MG,Loja Física
+876,Luiza Cirino,38,M,São Paulo,RS,Loja Física
+877,Isaque Almeida,31,F,Rio de Janeiro,MG,Loja Física
+878,Asafe Pereira,19,M,Rio de Janeiro,SP,Loja Física
+879,Maria Freitas,28,M,Rio de Janeiro,PR,Loja Física
+880,Davi Luiz Porto,68,M,Porto Alegre,MG,Online
+881,Ravi Lucca Campos,56,M,Curitiba,RS,Online
+882,Vitor Lopes,55,M,Curitiba,SP,Online
+883,Marcela Monteiro,51,F,Belo Horizonte,RJ,Loja Física
+884,Dra. Maria Flor da Cunha,55,F,Rio de Janeiro,RJ,Loja Física
+885,Clara Martins,67,F,Porto Alegre,RS,Loja Física
+886,Aylla Leão,51,M,Porto Alegre,SP,Online
+887,Dr. Gabriel Vasconcelos,35,F,Curitiba,PR,Loja Física
+888,Rhavi Farias,47,M,Rio de Janeiro,MG,Loja Física
+889,Alícia Machado,32,M,Belo Horizonte,SP,Online
+890,Melina Fonseca,44,M,Rio de Janeiro,RJ,Loja Física
+891,Valentim das Neves,68,M,São Paulo,RS,Online
+892,Srta. Isadora Melo,51,F,Rio de Janeiro,RS,Online
+893,Marcelo Guerra,69,F,São Paulo,MG,Loja Física
+894,Carolina Oliveira,55,M,São Paulo,RS,Loja Física
+895,Valentim Fogaça,50,F,Belo Horizonte,RS,Loja Física
+896,Maria Isis Caldeira,41,M,Curitiba,SP,Online
+897,Kevin Gonçalves,32,F,Rio de Janeiro,PR,Online
+898,Eduarda Brito,47,F,São Paulo,MG,Online
+899,Anthony Guerra,59,M,Rio de Janeiro,SP,Loja Física
+900,Benício Pastor,68,F,Curitiba,PR,Loja Física
+901,Ana Beatriz Moura,34,M,Curitiba,SP,Loja Física
+902,Ana Carolina Pimenta,22,F,Porto Alegre,SP,Loja Física
+903,Heloísa da Conceição,46,M,Curitiba,RS,Online
+904,Elisa Gonçalves,21,M,Belo Horizonte,PR,Online
+905,Dr. Erick Mendonça,27,F,São Paulo,MG,Online
+906,Catarina Duarte,34,F,Porto Alegre,MG,Online
+907,Isaac da Costa,27,M,Belo Horizonte,PR,Loja Física
+908,Yan Santos,34,F,Rio de Janeiro,RS,Loja Física
+909,Breno Andrade,37,F,São Paulo,RJ,Loja Física
+910,Srta. Ágatha Vargas,41,M,Curitiba,SP,Online
+911,Luiz Henrique Rodrigues,22,M,São Paulo,RS,Online
+912,Júlia Jesus,51,F,Rio de Janeiro,PR,Loja Física
+913,Carolina Araújo,23,M,Porto Alegre,SP,Loja Física
+914,Luan Cavalcanti,19,M,Porto Alegre,MG,Online
+915,Jade Freitas,30,M,Porto Alegre,RJ,Loja Física
+916,Sara Barbosa,60,F,Curitiba,MG,Online
+917,Gabriel Marques,60,F,Belo Horizonte,PR,Online
+918,Vitor Pereira,65,M,Belo Horizonte,SP,Online
+919,Pedro Lucas Borges,28,F,São Paulo,PR,Loja Física
+920,Bento Costela,68,M,Curitiba,SP,Loja Física
+921,Srta. Maria Flor Rocha,64,F,Porto Alegre,RS,Online
+922,Thales Cassiano,40,M,Porto Alegre,RJ,Loja Física
+923,Otávio Fonseca,33,M,Rio de Janeiro,RS,Online
+924,Laura Vargas,48,F,Rio de Janeiro,RS,Online
+925,Murilo Cunha,28,M,Porto Alegre,PR,Online
+926,Bento Brito,33,F,Porto Alegre,RJ,Online
+927,Srta. Eduarda Fonseca,25,F,Curitiba,SP,Loja Física
+928,Maya da Conceição,21,M,Belo Horizonte,SP,Online
+929,Lucas Gabriel Moreira,57,M,Rio de Janeiro,MG,Online
+930,Ágatha Santos,21,F,Belo Horizonte,SP,Loja Física
+931,Maitê Sampaio,42,M,Curitiba,PR,Online
+932,Sophia Vargas,20,M,Porto Alegre,RS,Online
+933,Maria Júlia Macedo,49,M,Belo Horizonte,RS,Loja Física
+934,Gabriel Cardoso,20,M,Porto Alegre,RS,Loja Física
+935,Luiz Otávio da Rosa,44,M,Porto Alegre,RJ,Loja Física
+936,Raul Moraes,46,F,São Paulo,SP,Online
+937,Isaque Casa Grande,49,F,Belo Horizonte,PR,Loja Física
+938,Sara Andrade,67,M,Belo Horizonte,RJ,Loja Física
+939,Ayla Freitas,68,M,Porto Alegre,MG,Online
+940,Srta. Isis Nascimento,36,M,Curitiba,PR,Online
+941,Dra. Brenda Brito,38,F,São Paulo,PR,Online
+942,Gael Henrique Caldeira,22,M,Porto Alegre,PR,Online
+943,Thales Barros,35,F,Rio de Janeiro,RS,Online
+944,Luiz Otávio Sousa,45,F,Rio de Janeiro,PR,Loja Física
+945,Nina Vieira,59,F,São Paulo,SP,Loja Física
+946,Bernardo Costela,39,M,Curitiba,PR,Loja Física
+947,Maria Eduarda Farias,38,F,Porto Alegre,RS,Online
+948,Bruna Cunha,23,M,Belo Horizonte,PR,Online
+949,Zoe Ribeiro,18,F,São Paulo,MG,Online
+950,Vinícius da Luz,22,M,Curitiba,MG,Loja Física
+951,Pedro Alves,58,F,Belo Horizonte,RS,Loja Física
+952,Raul Lima,29,M,Rio de Janeiro,SP,Online
+953,Gabriela Alves,43,F,Rio de Janeiro,SP,Loja Física
+954,Arthur Miguel das Neves,63,M,Belo Horizonte,RJ,Online
+955,Srta. Agatha Costela,51,M,São Paulo,RS,Loja Física
+956,Ana Vitória Vasconcelos,66,M,Rio de Janeiro,PR,Loja Física
+957,Dra. Alana Barbosa,31,M,Porto Alegre,RS,Loja Física
+958,Maria Laura Moreira,43,F,Belo Horizonte,RJ,Online
+959,André Ribeiro,62,F,Belo Horizonte,RS,Loja Física
+960,Laís Costela,44,M,Rio de Janeiro,RS,Loja Física
+961,Noah Alves,26,F,São Paulo,RJ,Online
+962,Carlos Eduardo Leão,43,M,Porto Alegre,SP,Loja Física
+963,Beatriz Lopes,64,M,São Paulo,PR,Online
+964,Heloisa Jesus,39,F,Curitiba,RJ,Online
+965,Luana Siqueira,64,M,Curitiba,MG,Online
+966,Bryan Mendes,47,M,Rio de Janeiro,SP,Online
+967,Bruna Pires,60,F,Rio de Janeiro,MG,Online
+968,Isaac Silveira,65,M,Rio de Janeiro,SP,Loja Física
+969,Anthony Gabriel Brito,34,M,Curitiba,PR,Online
+970,Caleb Fogaça,43,M,São Paulo,PR,Online
+971,Aurora Ribeiro,53,M,São Paulo,RS,Online
+972,Srta. Amanda Farias,18,F,Rio de Janeiro,MG,Online
+973,Dr. Joaquim Costela,25,F,Porto Alegre,SP,Loja Física
+974,Yasmin Pimenta,66,F,São Paulo,PR,Online
+975,Juliana Albuquerque,52,M,Curitiba,RJ,Loja Física
+976,Danilo da Cunha,69,M,Belo Horizonte,PR,Online
+977,João Gabriel Brito,32,F,Belo Horizonte,RJ,Loja Física
+978,Mathias Oliveira,64,M,Belo Horizonte,SP,Online
+979,Isabel Marques,39,M,Porto Alegre,PR,Online
+980,Arthur Gabriel Nascimento,31,M,Rio de Janeiro,PR,Loja Física
+981,Kaique Azevedo,43,M,Curitiba,SP,Online
+982,Ravy Ribeiro,45,F,Porto Alegre,PR,Loja Física
+983,Mariana Macedo,40,F,Curitiba,RJ,Online
+984,Maria Isis da Costa,31,F,Curitiba,PR,Loja Física
+985,Matheus Moraes,41,M,Rio de Janeiro,MG,Online
+986,Milena Câmara,19,F,Belo Horizonte,RS,Online
+987,Júlia Sampaio,62,F,Rio de Janeiro,RJ,Loja Física
+988,Ana Julia Sampaio,43,M,Porto Alegre,MG,Online
+989,Cauã Costa,31,M,Porto Alegre,SP,Online
+990,Vinícius Alves,68,F,Porto Alegre,RJ,Online
+991,Yan Macedo,24,F,Rio de Janeiro,RS,Online
+992,Antônio Mendes,20,F,Curitiba,RS,Online
+993,Breno Mendonça,64,F,Curitiba,SP,Online
+994,Juan Sales,40,M,São Paulo,SP,Loja Física
+995,Antônio Costa,63,F,Porto Alegre,RJ,Loja Física
+996,Yuri Pinto,60,F,Curitiba,PR,Loja Física
+997,Srta. Anna Liz Mendonça,64,M,São Paulo,SP,Online
+998,Liz da Cunha,62,F,Curitiba,PR,Loja Física
+999,Maria Cecília Vasconcelos,35,M,Porto Alegre,MG,Online
+1000,Kamilly Teixeira,55,M,Belo Horizonte,RS,Online
