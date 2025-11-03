@@ -34,4 +34,3 @@ impacto["Retorno_%"] = (impacto["ROI"] - 1) * 100
 
 print(impacto.sort_values("ROI", ascending=False))
 
-impacto.to_csv("impacto_campanhas.csv", index=False, encoding='utf-8')
