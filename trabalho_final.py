@@ -14,7 +14,7 @@ vendas_campanhas = vendas.merge(
     on="Canal",
     how="left",
     suffixes=("_venda", "_campanha")
-)
+) #botar no chat, pedir sem isso, falar que so esta retornando 2, e pedir de forma simples e didatica
 
 # Filtrar somente vendas dentro do período da campanha
 vendas_campanhas = vendas_campanhas[
