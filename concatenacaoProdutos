@@ -1,0 +1,16 @@
+import pandas as pd
+
+
+path_produtos_atualizados = r"C:\Users\PC\Desktop\projetos\Projeto_Nara\NARA_csv\produtos_atualizado.csv"
+path_produto_adicional = r"C:\Users\PC\Desktop\projetos\Projeto_Nara\NARA_csv\produto_adicional.csv"
+
+
+produtos_atualizado = pd.read_csv(path_produtos_atualizados, sep=",")
+produto_adicional = pd.read_csv(path_produto_adicional, sep=";")
+
+produtos_final = pd.concat([produtos_atualizado, produto_adicional], ignore_index=True)
+
+produtos_final.to_csv(r"C:\Users\PC\Desktop\projetos\Projeto_Nara\NARA_csv\produtos_final.csv", sep=",", index=False)
+
+print("✅ Concatenação concluída com sucesso!")
+print(produtos_final)
