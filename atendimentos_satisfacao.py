@@ -1,10 +1,11 @@
 import pandas as pd
 import numpy as np
 
-atendimentos_df = pd.read_csv('atendimentos.csv', sep = ',')
+atendimentos_df = pd.read_csv('atendimentos_novo.csv', sep = ',')
 
 
-
+atendimentos_df['Tempo_Resp']= atendimentos_df['Tempo_Resposta']*60
+atendimentos_df= atendimentos_df.drop('Tempo_Resposta', axis=1)
 
 
 satisfacao_notas = atendimentos_df.groupby('Tipo')['Nota_Satisfacao'].sum().reset_index()
@@ -32,10 +33,10 @@ print(f'Media notas : {media_satisfacao_notas}')
 
 
 
-satisfacao_tempo = atendimentos_df.groupby('Tipo')['Tempo_Resposta'].mean().reset_index()
+satisfacao_tempo = atendimentos_df.groupby('Tipo')['Tempo_Resp'].mean().reset_index()
 print(satisfacao_tempo)
 
-satisfacao_tempo_array= np.array (satisfacao_tempo['Tempo_Resposta'])
+satisfacao_tempo_array= np.array (satisfacao_tempo['Tempo_Resp'])
 q1_satisfacao_tempo = np.percentile(satisfacao_tempo_array, 25)
 q2_satisfacao_tempo= np.percentile(satisfacao_tempo_array,50)
 q3_satisfacao_tempo = np.percentile(satisfacao_tempo_array,75)
@@ -54,13 +55,13 @@ print(f'Media tempo: {media_satisfacao_tempo}')
 
 
 atendimentos_df['informações importantes']= 'Médio'
-atendimentos_df.loc[atendimentos_df['Tempo_Resposta']> q3_satisfacao_tempo,'informações importantes']= 'Ruim'
-atendimentos_df.loc[atendimentos_df['Tempo_Resposta'] <q1_satisfacao_tempo,'informações importantes']= 'Bom'
+atendimentos_df.loc[atendimentos_df['Tempo_Resp']> q3_satisfacao_tempo,'informações importantes']= 'Ruim'
+atendimentos_df.loc[atendimentos_df['Tempo_Resp'] <q1_satisfacao_tempo,'informações importantes']= 'Bom'
 
 print(atendimentos_df)
 atendimentos_df.to_csv('atendimentos.csv',sep =',', index= False)
 
 
-avaliacao = atendimentos_df.groupby('informações importantes')['Tempo_Resposta'].sum().reset_index()
+avaliacao = atendimentos_df.groupby('informações importantes')['Tempo_Resp'].sum().reset_index()
 
 print(avaliacao)
