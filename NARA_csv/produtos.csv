@@ -1,0 +1,100 @@
+ID_Produto,Nome_Produto,Categoria,Preco,Marca
+1,Máquina de Lavar 8kg,Eletrodomésticos,1632.61,
+2,Smartphone Samsung Galaxy S21,Eletrodomésticos,3306.28,Samsung
+3,Notebook Dell Inspiron,Eletrodomésticos,1236.89,Dell
+4,"TV LG 50""",Eletrônicos,170.47,LG
+5,Geladeira Brastemp Frost Free,Eletrodomésticos,3845.33,Brastemp
+6,Micro-ondas Electrolux,Informática,3156.34,Electrolux
+7,Ar-condicionado Split 12000 BTUs,Eletrônicos,3835.28,
+8,Impressora HP Deskjet,Móveis,290.8,HP
+9,Fone de Ouvido JBL,Eletrônicos,4201.89,JBL
+10,Câmera Canon EOS Rebel,Eletrodomésticos,3135.68,Canon
+11,Liquidificador Philips Walita,Informática,2860.64,Philips
+12,Secador de Cabelo Taiff,Informática,3160.61,Taiff
+13,Aspirador de Pó Electrolux,Eletrodomésticos,4335.72,Electrolux
+14,Tablet Apple iPad,Informática,2975.99,Apple
+15,"Monitor Samsung 24""",Eletrônicos,2946.66,Samsung
+16,Teclado Logitech,Eletrônicos,4954.33,Logitech
+17,Mouse Microsoft,Eletrodomésticos,3807.98,
+18,Caixa de Som Bluetooth Sony,Informática,2267.24,Sony
+19,Roteador TP-Link,Móveis,3566.25,TP-Link
+20,Smartwatch Xiaomi,Eletrônicos,2007.23,Xiaomi
+21,Máquina de Costura Singer,Eletrônicos,1221.49,
+22,Ventilador Arno,Eletrônicos,3024.57,Arno
+23,Cooktop Brastemp,Eletrônicos,4648.09,Brastemp
+24,Forno Elétrico Philco,Móveis,4652.78,
+25,Cafeteira Nespresso,Eletrodomésticos,1775.34,
+26,Chaleira Elétrica Mondial,Eletrônicos,2685.62,Mondial
+27,Purificador de Água Consul,Informática,1137.02,Consul
+28,Lava-Louças Brastemp,Móveis,4978.59,Brastemp
+29,Câmera de Segurança Intelbras,Eletrônicos,4907.48,Intelbras
+30,Relógio Garmin,Informática,3282.59,Garmin
+31,Projetor Epson,Eletrônicos,4041.63,Epson
+32,Batedeira Arno,Eletrodomésticos,3603.99,Arno
+33,Grill George Foreman,Móveis,3006.48,George Foreman
+34,Estabilizador APC,Eletrodomésticos,361.41,APC
+35,HD Externo Seagate,Móveis,2328.35,Seagate
+36,SSD Kingston 480GB,Eletrônicos,3406.45,Kingston
+37,Pen Drive Sandisk 64GB,Eletrônicos,3419.9,Sandisk
+38,Carregador Portátil Xiaomi,Móveis,1928.3,Xiaomi
+39,Controle Remoto Universal,Informática,4714.29,
+40,Adaptador HDMI,Informática,920.05,
+41,Suporte para TV,Eletrônicos,2551.76,
+42,Cabo USB-C,Eletrônicos,3485.33,
+43,Extensão Elétrica,Eletrodomésticos,3515.97,
+44,Luminária LED,Eletrônicos,3278.33,
+45,Fritadeira Airfryer Mondial,Móveis,1448.91,Mondial
+46,Secadora de Roupas Electrolux,Informática,865.41,Electrolux
+47,Máquina de Barbear Philips,Informática,3216.11,Philips
+48,Escova Rotativa Mondial,Eletrodomésticos,3036.58,Mondial
+49,Cadeira Gamer ThunderX3,Informática,978.84,ThunderX3
+50,Mesa Digitalizadora Wacom,Informática,3555.18,Wacom
+51,Webcam Logitech,Móveis,2330.34,Logitech
+52,Tripé para Câmera,Informática,3372.03,
+53,Filtro de Linha,Eletrodomésticos,4203.1,
+54,Hub USB,Eletrodomésticos,931.67,
+55,Leitor de Cartão SD,Informática,193.81,
+56,Controle Xbox,Eletrônicos,3917.6,
+57,Volante Logitech G29,Informática,3087.52,Logitech
+58,Headset HyperX,Eletrodomésticos,3528.23,HyperX
+59,Placa de Vídeo NVIDIA RTX 3060,Eletrodomésticos,4206.96,
+60,Processador Intel i7,Móveis,4033.77,
+61,Memória RAM Corsair 16GB,Informática,4808.51,Corsair
+62,Placa-mãe ASUS,Informática,2726.08,ASUS
+63,Fonte Corsair 650W,Móveis,2493.63,Corsair
+64,Gabinete Gamer Cooler Master,Eletrodomésticos,2069.25,Cooler Master
+65,Notebook Lenovo Ideapad,Móveis,853.09,Lenovo
+66,Smartphone iPhone 13,Eletrônicos,2905.78,Apple
+67,Smart TV Samsung 4K,Informática,1457.36,Samsung
+68,Monitor LG Ultrawide,Eletrodomésticos,4614.41,LG
+69,Teclado Mecânico Razer,Móveis,2957.63,Razer
+70,Mouse Gamer Redragon,Eletrodomésticos,3004.92,Redragon
+71,Câmera GoPro Hero 9,Eletrônicos,1839.13,GoPro
+72,Drone DJI Mini 2,Informática,354.75,DJI
+73,Echo Dot Amazon,Móveis,255.54,Amazon
+74,Kindle Paperwhite,Eletrodomésticos,2174.34,
+75,Chromecast Google,Informática,514.37,Google
+76,Fire TV Stick Amazon,Informática,3073.55,Amazon
+77,Smartwatch Apple Watch,Eletrodomésticos,4416.77,Apple
+78,Smartphone Motorola Edge,Informática,4426.28,Motorola
+79,Notebook Acer Aspire,Informática,3329.32,
+80,TV Philips Ambilight,Móveis,1135.04,Philips
+81,Geladeira Samsung Duplex,Informática,4328.68,Samsung
+82,Micro-ondas Panasonic,Móveis,4441.86,
+83,Ar-condicionado LG Dual Inverter,Informática,1063.6,LG
+84,Impressora Epson Ecotank,Eletrônicos,3713.39,Epson
+85,Fone de Ouvido Sony WH-1000XM4,Eletrônicos,1503.95,Sony
+86,Câmera Nikon D3500,Móveis,4032.94,Nikon
+87,Liquidificador Oster,Móveis,4986.47,Oster
+88,Secador de Cabelo Gama,Eletrônicos,247.13,Gama
+89,Aspirador de Pó Mondial,Informática,4497.09,Mondial
+90,Tablet Samsung Galaxy Tab,Móveis,3150.89,Samsung
+91,"Monitor AOC 27""",Eletrodomésticos,4869.57,AOC
+92,Teclado Multilaser,Informática,2378.55,Multilaser
+93,Mouse Logitech MX Master,Informática,4252.2,Logitech
+94,Caixa de Som JBL Flip,Eletrônicos,405.73,JBL
+95,Roteador D-Link,Móveis,1742.87,D-Link
+96,Smartwatch Huawei,Informática,428.38,Huawei
+97,Máquina de Costura Elgin,Móveis,4879.18,LG
+98,Ventilador Mondial,Móveis,4103.17,Mondial
+99,Cooktop Electrolux,Móveis,4277.48,Electrolux
