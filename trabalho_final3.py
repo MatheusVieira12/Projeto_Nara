@@ -10,7 +10,6 @@ atendimentos_df= atendimentos_df.drop('Tempo_Resposta', axis=1)
 
 
 satisfacao_notas = atendimentos_df.groupby('Tipo')['Nota_Satisfacao'].sum().reset_index()
-print(satisfacao_notas)
 
 
 satisfacao_notas_array= np.array (satisfacao_notas['Nota_Satisfacao'])
@@ -32,11 +31,11 @@ limite_superior =  q3_satisfacao_notas + (1.5 * iqr)
 
 notas_outliers= satisfacao_notas.loc[satisfacao_notas['Nota_Satisfacao'] >= limite_superior ] 
 notas_outliers.sort_values(by = 'Nota_Satisfacao', ascending = False)
-
+print(notas_outliers)
 
 
 satisfacao_tempo = atendimentos_df.groupby('Tipo')['Tempo_Resp'].mean().reset_index()
-print(satisfacao_tempo)
+
 
 satisfacao_tempo_array= np.array (satisfacao_tempo['Tempo_Resp'])
 q1_satisfacao_tempo = np.percentile(satisfacao_tempo_array, 25)
@@ -56,21 +55,20 @@ iqr = q3_satisfacao_tempo - q1_satisfacao_tempo
 limite_superior =  q3_satisfacao_tempo + (1.5 * iqr)
 
 
-ocorrencias_outliers= satisfacao_tempo.loc[satisfacao_tempo['Temp_Resp'] >= limite_superior ] 
-ocorrencias_outliers.sort_values(by = 'Temp_Resp', ascending = False)
+satisfacao_outliers= satisfacao_tempo.loc[satisfacao_tempo['Tempo_Resp'] >= limite_superior ] 
+satisfacao_outliers.sort_values(by = 'Tempo_Resp', ascending = False)
+print(satisfacao_outliers)
 
 
 atendimentos_df['informações importantes']= 'Médio'
 atendimentos_df.loc[atendimentos_df['Tempo_Resp']> q3_satisfacao_tempo,'informações importantes']= 'Ruim'
 atendimentos_df.loc[atendimentos_df['Tempo_Resp'] <q1_satisfacao_tempo,'informações importantes']= 'Bom'
 
-print(atendimentos_df)
+
 atendimentos_df.to_csv('atendimentos.csv',sep =',', index= False)
 
 
 avaliacao = atendimentos_df.groupby('informações importantes')['Tempo_Resp'].sum().reset_index()
-
-print(avaliacao)
 
 
 
