@@ -70,7 +70,7 @@ import matplotlib.pyplot as plt
 # Carregar os dados
 clientes = pd.read_csv("NARA_csv/clientes.csv")
 produtos = pd.read_csv("NARA_csv/produtos_final.csv")
-vendas = pd.read_csv("NARA_csv/vendas_csv/vendas_concatenadas.csv")
+vendas = pd.read_csv("NARA_csv/vendas_concatenadas_limpa.csv")
 avaliacoes = pd.read_csv("NARA_csv/avaliacoes.csv")
 atendimentos = pd.read_csv("NARA_csv/atendimentos_convertido.csv")
 

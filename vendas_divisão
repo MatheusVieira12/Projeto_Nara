@@ -1,0 +1,17 @@
+import pandas as pd
+
+
+# Ler o arquivo
+df = pd.read_csv("NARA_csv/venda_3_semH.csv")
+
+print("Antes da divisão:")
+print(df.head())
+
+df['Valor_Total'] = df['Valor_Total'] / 100
+
+print("\nDepois da divisão:")
+print(df.head())
+
+df.to_csv("NARA_csv/vendas_3_limpo.csv", index=False)
+
+print("\nArquivo salvo com sucesso como 'vendas_3_limpo.csv'")
