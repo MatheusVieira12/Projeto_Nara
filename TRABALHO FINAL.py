@@ -142,8 +142,10 @@ df.boxplot(column='Valor_Total', by='Categoria', ax=axs[1, 0])
 axs[1, 0].set_title('Boxplot - Valor Total das Compras por Categoria')
 axs[1, 0].set_xlabel('Categoria')
 axs[1, 0].set_ylabel('Valor Total (R$)')
-
-
+axs[1, 1].axis('off')  # Desativa o quarto subplot vazio
+axs[1, 1].text(0.5, 0.7, 'Boxplot relação Faixa Etária e Valor Total', horizontalalignment='center', verticalalignment='center', fontsize=10, color='black', transform=axs[1, 1].transAxes)
+axs[1, 1].text(0.5, 0.5, 'Boxplot relação Sexo e Valor Total', horizontalalignment='center', verticalalignment='center', fontsize=10, color='black', transform=axs[1, 1].transAxes)
+axs[1, 1].text(0.5, 0.3, 'Boxplot relação Categoria e Valor Total', horizontalalignment='center', verticalalignment='center', fontsize=10, color='black', transform=axs[1, 1].transAxes)
 plt.suptitle('Análise de Valor Total das Compras')
 plt.tight_layout()
 plt.show()
