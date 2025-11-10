@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 
 # Carregar os dados
 vendas1 = pd.read_csv('vendas.csv')
-vendas2 = pd.read_csv('venda 1.csv')
-vendas3 = pd.read_csv('venda 2.csv')
-vendas4 = pd.read_csv('venda 3.csv')
-produtos = pd.read_csv('produtos.csv')
+vendas2 = pd.read_csv('venda_1.csv')
+vendas3 = pd.read_csv('venda_2.csv')
+vendas4 = pd.read_csv('venda_3.csv')
+produtos = pd.read_csv('produto.csv')
 avaliacoes = pd.read_csv('avaliacoes.csv')
 atendimentos = pd.read_csv('atendimentos.csv')
 campanhas = pd.read_csv('campanhas_corrigido.csv')
@@ -98,15 +98,8 @@ total_sexo = compra_por_faixa_sexo["Valor_Total"].sum()
 compra_por_faixa_sexo["percentual"] = (compra_por_faixa_sexo["Valor_Total"] / total_sexo * 100).round(2)
 print(compra_por_faixa_sexo)
 
-# subplot boxplot faixa etaria vs valor total
 
-fig, ax = plt.subplots(figsize=(10, 6))
-df.boxplot(column='Valor_Total', by='faixa_etaria', ax=ax)
-ax.set_title('Boxplot - Valor Total das Compras por Faixa Etária')
-ax.set_xlabel('Faixa Etária')
-ax.set_ylabel('Valor Total (R$)')
-plt.suptitle('')
-plt.show()
+
 
 # grafico de dispersao faixa etaria vs valor total
 fig, ax = plt.subplots(figsize=(10, 6))
@@ -116,14 +109,7 @@ ax.set_xlabel('Faixa Etária')
 ax.set_ylabel('Valor Total (R$)')
 plt.show()
 
-# subplot boxplot sexo vs valor total
-fig, ax = plt.subplots(figsize=(10, 6))
-df.boxplot(column='Valor_Total', by='Sexo', ax=ax)
-ax.set_title('Boxplot - Valor Total das Compras por Sexo')
-ax.set_xlabel('Sexo')
-ax.set_ylabel('Valor Total (R$)')
-plt.suptitle('')
-plt.show()
+
 
 # grafico de dispersao sexo vs valor total
 fig, ax = plt.subplots(figsize=(10, 6))
@@ -141,6 +127,23 @@ ax.set_xlabel('Canal')
 ax.set_ylabel('Valor Total (R$)')
 plt.show()
 
-# salvar o dataframe final em um arquivo csv
-df.to_csv('df_final.csv', index=False)
+# quadro boxplot todos os boxplots juntos com showmens
 
+fig, axs = plt.subplots(2, 2, figsize=(10, 8))
+df.boxplot(column='Valor_Total', by='faixa_etaria', ax=axs[0, 0])
+axs[0, 0].set_title('Boxplot - Valor Total das Compras por Faixa Etária')
+axs[0, 0].set_xlabel('Faixa Etária')
+axs[0, 0].set_ylabel('Valor Total (R$)')
+df.boxplot(column='Valor_Total', by='Sexo', ax=axs[0, 1])
+axs[0, 1].set_title('Boxplot - Valor Total das Compras por Sexo')
+axs[0, 1].set_xlabel('Sexo')
+axs[0, 1].set_ylabel('Valor Total (R$)')
+df.boxplot(column='Valor_Total', by='Categoria', ax=axs[1, 0])
+axs[1, 0].set_title('Boxplot - Valor Total das Compras por Categoria')
+axs[1, 0].set_xlabel('Categoria')
+axs[1, 0].set_ylabel('Valor Total (R$)')
+
+
+plt.suptitle('Análise de Valor Total das Compras')
+plt.tight_layout()
+plt.show()
