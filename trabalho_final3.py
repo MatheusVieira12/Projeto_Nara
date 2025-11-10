@@ -72,6 +72,15 @@ avaliacao = atendimentos_df.groupby('informações importantes')['Tempo_Resp'].s
 
 
 
+
+
+
+
+
+
+
+
+
 # Boxplot das notas de satisfação por tipo de atendimento
 plt.figure(figsize=(8,5))
 atendimentos_df.boxplot(column='Nota_Satisfacao', by='Tipo', grid=False, showmeans = True)
@@ -111,4 +120,45 @@ plt.title('Média de Nota x Tempo de Resposta por Tipo de Atendimento')
 plt.xlabel('Tempo Médio de Resposta (minutos)')
 plt.ylabel('Nota Média de Satisfação')
 plt.grid(True)
+plt.show()
+
+
+
+media_por_tipo = atendimentos_df.groupby('Tipo')[['Tempo_Resp', 'Nota_Satisfacao']].mean().reset_index()
+
+# Criação da figura 2x2
+fig, axes = plt.subplots(2, 2, figsize=(10, 8))
+
+# Notas de satisfação por tipo
+atendimentos_df.boxplot(column='Nota_Satisfacao', by='Tipo', grid=False, showmeans=True, ax=axes[0, 0])
+axes[0, 0].set_title('Notas de Satisfação por Tipo')
+axes[0, 0].set_xlabel('Tipo de Atendimento')
+axes[0, 0].set_ylabel('Nota de Satisfação')
+axes[0, 0].grid(False)
+
+# Tempo de resposta por tipo
+atendimentos_df.boxplot(column='Tempo_Resp', by='Tipo', grid=False, showmeans=True, ax=axes[0, 1])
+axes[0, 1].set_title('Tempo de Resposta por Tipo')
+axes[0, 1].set_xlabel('Tipo de Atendimento')
+axes[0, 1].set_ylabel('Tempo de Resposta (minutos)')
+axes[0, 1].grid(False)
+
+# Correlação entre Tempo de Resposta e Nota de Satisfação
+axes[1, 0].scatter(atendimentos_df['Tempo_Resp'], atendimentos_df['Nota_Satisfacao'], alpha=0.6)
+axes[1, 0].set_title('Correlação: Tempo de Resposta x Nota de Satisfação')
+axes[1, 0].set_xlabel('Tempo de Resposta (minutos)')
+axes[1, 0].set_ylabel('Nota de Satisfação')
+axes[1, 0].grid(True)
+
+# Médias por tipo
+axes[1, 1].scatter(media_por_tipo['Tempo_Resp'], media_por_tipo['Nota_Satisfacao'])
+for i, row in media_por_tipo.iterrows():
+    axes[1, 1].text(row['Tempo_Resp'], row['Nota_Satisfacao'], row['Tipo'], fontsize=9)
+axes[1, 1].set_title('Média de Nota x Tempo de Resposta por Tipo')
+axes[1, 1].set_xlabel('Tempo Médio de Resposta (minutos)')
+axes[1, 1].set_ylabel('Nota Média de Satisfação')
+axes[1, 1].grid(True)
+
+fig.suptitle('')
+plt.tight_layout()
 plt.show()
